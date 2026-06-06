@@ -1,0 +1,82 @@
+[
+  {
+    "id": "shibahama",
+    "title": "芝浜 (Shibahama)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "45分",
+    "description": "魚勝が浜で拾った財布を巡る、夫婦の愛と覚悟の物語。江戸落語の至宝。"
+  },
+  {
+    "id": "tokisoba",
+    "title": "時そば (Toki Soba)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "勘定を誤魔化そうとする男と、それを見て真似しようとして失敗する男の滑稽なやり取り。"
+  },
+  {
+    "id": "jugemu",
+    "title": "寿限無 (Jugemu)",
+    "genre": "前座噺 (Zenzabanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "10分",
+    "description": "あまりにも長すぎる名前を付けられた子供の、おめでたくも騒々しい日常。"
+  },
+  {
+    "id": "meiguro-no-sanma",
+    "title": "目黒のさんま (Meguro no Sanma)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "「さんまは目黒に限る」という有名な台詞で知られる、庶民と殿様のミスマッチが面白い名作。"
+  },
+  {
+    "id": "kajikazawa",
+    "title": "鰍沢 (Kajikazawa)",
+    "genre": "怪談・人情 (Ghost/Drama)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "法華信者の旅人が吹雪の山中で迷い込み、ある女性に助けられるが……不気味な背景を持つ名作。"
+  },
+  {
+    "id": "rakuda",
+    "title": "らくだ (Rakuda)",
+    "genre": "滑稽・残酷 (Dark Comedy)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "50分",
+    "description": "乱暴者「らくだ」の死体を巡り、臆病な屑屋が豹変していく様子を描く力作。"
+  },
+  {
+    "id": "shinigami",
+    "title": "死神 (Shinigami)",
+    "genre": "怪談・滑稽 (Ghost/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "運に見放された男が死神と契約し、医者として成功するが、最後の一本の蝋燭が消えそうになり……。"
+  },
+  {
+    "id": "chihayafuru",
+    "title": "千早振る (Chihayafuru)",
+    "genre": "知ったかぶり (Improvisation)",
+    "difficulty": "級初 (Beginner)",
+    "duration": "15分",
+    "description": "百人一首の意味を聞かれた隠居が、全くデタラメな解釈を即興で語る爆笑もの。"
+  },
+  {
+    "id": "kogane-mochi",
+    "title": "黄金餅 (Kogane Mochi)",
+    "genre": "因業 (Greed)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "35分",
+    "description": "欲深い僧侶が死んだ隣人の金を飲み込み、それを掘り出してまで自分のものにしようとする執念の物語。"
+  },
+  {
+    "id": "sanma-matsuri",
+    "title": "饅頭こわい (Manju Kowai)",
+    "genre": "滑稽 (Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "「怖いものは何か」と話し合う中で、一人の男が「饅頭が怖い」と言い出し、嫌がらせを受けたはずが……。"
+  }
+]
