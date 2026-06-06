@@ -78,5 +78,3845 @@
     "difficulty": "初級 (Beginner)",
     "duration": "15分",
     "description": "「怖いものは何か」と話し合う中で、一人の男が「饅頭が怖い」と言い出し、嫌がらせを受けたはずが……。"
+  },
+  {
+    "id": "aona",
+    "title": "青菜 (Aona)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "植木屋が屋敷で聞いた上品なやり取りを真似しようとして、長屋で大失敗する夏らしい噺。"
+  },
+  {
+    "id": "akubi-shinan",
+    "title": "あくび指南 (Akubi Shinan)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "あくびの作法を習いに行くという奇妙な設定で、間の取り方と仕草が笑いになる前座向きの噺。"
+  },
+  {
+    "id": "akegarasu",
+    "title": "明烏 (Akegarasu)",
+    "genre": "廓噺 (Kuruwa-banashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "堅物の若旦那が吉原へ連れて行かれ、夜明けの鐘までに大きく変わってしまう艶のある名作。"
+  },
+  {
+    "id": "atago-yama",
+    "title": "愛宕山 (Atagoyama)",
+    "genre": "上方・滑稽 (Kamigata Comedy)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "旦那の花見に同行した幇間が、谷底の小判をめぐって大騒ぎする上方落語の大ネタ。"
+  },
+  {
+    "id": "atama-yama",
+    "title": "あたま山 (Atamayama)",
+    "genre": "ナンセンス (Nonsense Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "15分",
+    "description": "さくらんぼの種を飲み込んだ男の頭に木が生え、池までできてしまう奇想天外な噺。"
+  },
+  {
+    "id": "amidagaike",
+    "title": "阿弥陀池 (Amidagaike)",
+    "genre": "上方・滑稽 (Kamigata Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "新聞記事をうろ覚えで話そうとする男の知ったかぶりが、どんどんおかしな方向へ進む噺。"
+  },
+  {
+    "id": "ikuyo-mochi",
+    "title": "幾代餅 (Ikuyo Mochi)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "35分",
+    "description": "錦絵の花魁に恋をした餅屋の奉公人が、真面目さと一途さで運命を変えていく人情噺。"
+  },
+  {
+    "id": "ichigan-koku",
+    "title": "一眼国 (Ichigan-koku)",
+    "genre": "旅・奇談 (Travel/Fantasy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "見世物師が一つ目の人間を探しに行くが、逆に自分が珍しい存在として扱われる不思議な噺。"
+  },
+  {
+    "id": "ido-no-chawan",
+    "title": "井戸の茶碗 (Ido no Chawan)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "35分",
+    "description": "正直な屑屋を中心に、浪人と武士の誠実さが行き交う、後味のよい人情噺の名作。"
+  },
+  {
+    "id": "inu-no-me",
+    "title": "犬の目 (Inu no Me)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "目の病気を治すために犬の目を入れるという荒唐無稽な治療が笑いを生む軽い噺。"
+  },
+  {
+    "id": "inokori-saheiji",
+    "title": "居残り佐平次 (Inokori Saheiji)",
+    "genre": "廓噺 (Kuruwa-banashi)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "45分",
+    "description": "遊郭で金を払わず居残った佐平次が、口八丁で周囲を振り回す大ネタ。"
+  },
+  {
+    "id": "imado-no-kitsune",
+    "title": "今戸の狐 (Imado no Kitsune)",
+    "genre": "滑稽・職人噺 (Comedy/Craftsman)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "今戸焼の狐をめぐって、落語家や職人の暮らしがにじむ、江戸情緒のある噺。"
+  },
+  {
+    "id": "imodawara",
+    "title": "芋俵 (Imodawara)",
+    "genre": "泥棒噺 (Thief Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "泥棒が芋俵に隠れて家へ入り込むが、思い通りにいかず笑いを誘う前座向きの噺。"
+  },
+  {
+    "id": "ukiyodoko",
+    "title": "浮世床 (Ukiyodoko)",
+    "genre": "長屋噺 (Nagaya Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "25分",
+    "description": "床屋に集まる町内の人々が、読書や世間話をしながら騒ぎを起こす長屋噺。"
+  },
+  {
+    "id": "ukiyoburo",
+    "title": "浮世風呂 (Ukiyoburo)",
+    "genre": "長屋噺 (Nagaya Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "銭湯に集まる庶民たちの会話を通して、江戸の暮らしと人間模様を描く噺。"
+  },
+  {
+    "id": "ushi-home",
+    "title": "牛ほめ (Ushi Home)",
+    "genre": "前座噺 (Zenzabanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "家や牛を褒める言葉を教わった男が、覚え間違いを連発する代表的な前座噺。"
+  },
+  {
+    "id": "udon-ya",
+    "title": "うどん屋 (Udonya)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "夜鳴きうどん屋が酔客に振り回される、寒い夜の空気がよく出る噺。"
+  },
+  {
+    "id": "unagi-no-taiko",
+    "title": "鰻の幇間 (Unagi no Taiko)",
+    "genre": "幇間噺 (Taikomochi Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "幇間が見知らぬ男に鰻をごちそうになろうとするが、逆に痛い目を見る噺。"
+  },
+  {
+    "id": "umayakaji",
+    "title": "厩火事 (Umaya Kaji)",
+    "genre": "夫婦噺 (Marriage Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "夫が自分を大事に思っているか悩む髪結いの女房が、仲人に相談する夫婦噺の名作。"
+  },
+  {
+    "id": "oishi-no-kitsune",
+    "title": "王子の狐 (Oji no Kitsune)",
+    "genre": "動物噺 (Animal Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "男が狐をだまして料理屋へ連れ込むが、最後は狐に仕返しされる江戸らしい噺。"
+  },
+  {
+    "id": "oumu-gaeshi",
+    "title": "鸚鵡返し (Omu Gaeshi)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "人の言葉をそのまま真似するやり取りが笑いになる、テンポのよい小品。"
+  },
+  {
+    "id": "ounomatsu",
+    "title": "阿武松 (Ounomatsu)",
+    "genre": "出世噺 (Success Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "大食いで苦労した男が相撲取りとして出世していく、講談調にも演じられる力のある噺。"
+  },
+  {
+    "id": "oyama-mairi",
+    "title": "大山詣り (Oyama Mairi)",
+    "genre": "旅噺 (Travel Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "大山参りの帰りに仲間をからかった男たちが、思わぬ仕返しを受けるにぎやかな噺。"
+  },
+  {
+    "id": "okiku-no-sara",
+    "title": "お菊の皿 (Okiku no Sara)",
+    "genre": "怪談・滑稽 (Ghost/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "皿屋敷の幽霊・お菊が評判になり、見物客相手に妙な人気者になってしまう怪談パロディ。"
+  },
+  {
+    "id": "oketsumyaku",
+    "title": "お血脈 (Oketsumyaku)",
+    "genre": "地獄・滑稽 (Hell Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "善光寺のお血脈で地獄に来る人が減り、困った閻魔たちが対策を考えるスケールの大きな噺。"
+  },
+  {
+    "id": "osetsu-tokuzaburo",
+    "title": "おせつ徳三郎 (Osetsu Tokuzaburo)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "45分",
+    "description": "大店の娘おせつと奉公人徳三郎の恋を描く、芝居がかった人情噺。"
+  },
+  {
+    "id": "ochakumi",
+    "title": "お茶汲み (Ochaku-mi)",
+    "genre": "廓噺 (Kuruwa-banashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "遊女の涙を信じた客が、仲間の話を聞いて真似をするが、相手の方が一枚上手だったという噺。"
+  },
+  {
+    "id": "onaoshi",
+    "title": "お直し (Onaoshi)",
+    "genre": "人情・廓噺 (Drama/Kuruwa)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "45分",
+    "description": "落ちぶれた夫婦が下級の店で働きながら、過去と現在の苦しさをにじませる重い人情噺。"
+  },
+  {
+    "id": "obake-nagaya",
+    "title": "お化け長屋 (Obake Nagaya)",
+    "genre": "長屋噺 (Nagaya Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "空き家を借りに来た人を追い返すため、長屋の住人たちが幽霊話で脅そうとする噺。"
+  },
+  {
+    "id": "omikidokkuri",
+    "title": "御神酒徳利 (Omiki Dokkuri)",
+    "genre": "占い・滑稽 (Fortune Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "なくした徳利を当てたことから占い師に間違われた男が、次々と難題を背負う噺。"
+  },
+  {
+    "id": "omitate",
+    "title": "お見立て (Omitate)",
+    "genre": "廓噺 (Kuruwa-banashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "しつこい客を避けたい花魁が死んだことにして逃れようとし、若い衆が墓を案内する噺。"
+  },
+  {
+    "id": "oyako-zake",
+    "title": "親子酒 (Oyako Zake)",
+    "genre": "酒の噺 (Sake Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "禁酒を約束した親子が、互いに隠れて酒を飲み、酔った姿で出会ってしまう噺。"
+  },
+  {
+    "id": "jugemu",
+    "title": "寿限無 (Jugemu)",
+    "genre": "前座噺 (Zenzabanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "10分",
+    "description": "長すぎるめでたい名前を付けられた子どもをめぐる、暗記とテンポが楽しい代表的な前座噺。"
+  },
+  {
+    "id": "kofui",
+    "title": "おかふい (Okafui)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "言葉の勘違いや人の見栄を笑いにする、短めにまとめやすい滑稽噺。"
+  },
+  {
+    "id": "ko-gai-kame",
+    "title": "家見舞 (Ie Mimai)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "新築祝いに水瓶を贈るつもりが、妙な品を持ち込んでしまう粗忽者たちの噺。"
+  },
+  {
+    "id": "koshome",
+    "title": "子ほめ (Ko Home)",
+    "genre": "前座噺 (Zenzabanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "10分",
+    "description": "子どもを褒める言葉を教わった男が、年齢や言い回しを間違えて笑いを生む定番の前座噺。"
+  },
+  {
+    "id": "kofu-i",
+    "title": "甲府い (Kofu-i)",
+    "genre": "出世・人情 (Success/Ninjo)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "甲府から来た若者が豆腐屋で真面目に働き、やがて信用を得ていく明るい人情噺。"
+  },
+  {
+    "id": "koshaku-machi",
+    "title": "居候講釈 (Isoro Koshaku)",
+    "genre": "講釈パロディ (Storytelling Parody)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "居候が講釈師気取りで語り出し、知識の怪しさや調子のよさで笑わせる噺。"
+  },
+  {
+    "id": "sankin-nagaya",
+    "title": "三軒長屋 (Sangen Nagaya)",
+    "genre": "長屋噺 (Nagaya Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "隣り合う家の住人たちが、それぞれの事情で騒動を起こす長屋噺。"
+  },
+  {
+    "id": "shichido-gitsune",
+    "title": "七度狐 (Shichido Gitsune)",
+    "genre": "上方・旅噺 (Kamigata Travel)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "旅人が狐に何度も化かされる、上方落語らしいテンポと化かし合いの噺。"
+  },
+  {
+    "id": "shiroto-unagi",
+    "title": "素人鰻 (Shiroto Unagi)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "素人が鰻屋を始めるが、鰻を扱えず店中が大騒ぎになる仕草の多い噺。"
+  },
+  {
+    "id": "tarachine",
+    "title": "たらちね (Tarachine)",
+    "genre": "前座噺 (Zenzabanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "言葉づかいが丁寧すぎる嫁をもらった男が、難しい言い回しに振り回される定番の前座噺。"
+  },
+  {
+    "id": "do-kan",
+    "title": "道灌 (Dokan)",
+    "genre": "前座噺 (Zenzabanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "太田道灌の故事を聞いた男が、知識を使いこなせずおかしなことになる前座噺。"
+  },
+  {
+    "id": "hi-mono-bako",
+    "title": "干物箱 (Himonobako)",
+    "genre": "若旦那噺 (Wakadanna Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "遊びに行きたい若旦那が、声色のうまい男を身代わりにして父親をごまかそうとする噺。"
+  },
+  {
+    "id": "hina-tsuba",
+    "title": "雛鍔 (Hinatsuba)",
+    "genre": "子ども噺 (Child Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "屋敷の子どもが小判を知らないふりをする様子を、長屋の子が真似しようとして失敗する噺。"
+  },
+  {
+    "id": "monomi-yusan",
+    "title": "明石詣り (Akashi Mairi)",
+    "genre": "旅噺 (Travel Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "明石周辺の名所見物を題材にした、旅の楽しさと土地の雰囲気を出せる噺。"
+  },
+  {
+    "id": "yajiro",
+    "title": "弥次郎 (Yajiro)",
+    "genre": "ほら吹き噺 (Tall Tale)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "弥次郎がありえない体験談を得意げに語り、話がどんどん大げさになっていく噺。"
+  },
+  {
+    "id": "yabuiri",
+    "title": "薮入り (Yabuiri)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "奉公に出た息子が久しぶりに帰ってくる日を、両親が心待ちにする温かい人情噺。"
+  },
+  {
+    "id": "onna-no-kowakare",
+    "title": "子別れ (Kowakare)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "45分",
+    "description": "別れた夫婦と子どもが再び向き合う、親子の情と再生を描いた人情噺の代表作。"
+  },
+  {
+    "id": "kaen-daiko",
+    "title": "火焔太鼓 (Kaen Daiko)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "道具屋が汚い太鼓を仕入れるが、それが思わぬ名品だったことから騒動になる、古今亭志ん生で知られる名作。"
+  },
+  {
+    "id": "matsuyama-kagami",
+    "title": "松山鏡 (Matsuyama Kagami)",
+    "genre": "昔噺・滑稽 (Folktale/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "鏡を知らない村人たちが、自分の顔を別人だと思い込む素朴でわかりやすい噺。"
+  },
+  {
+    "id": "kakitori-manzai",
+    "title": "掛取万歳 (Kakitori Manzai)",
+    "genre": "滑稽噺・年末 (Comedy/New Year)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "年末の借金取りを、芝居や義太夫などでうまく追い返そうとするにぎやかな噺。"
+  },
+  {
+    "id": "kagekiyo",
+    "title": "景清 (Kagekiyo)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "目の不自由な男が信心によって救いを求める、笑いと哀しみが混じる人情味のある噺。"
+  },
+  {
+    "id": "kasago",
+    "title": "笠碁 (Kasago)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "碁をめぐって喧嘩した友人同士が、仲直りしたいのに素直になれない様子を描く名作。"
+  },
+  {
+    "id": "kajikazawa",
+    "title": "鰍沢 (Kajikazawa)",
+    "genre": "怪談・人情 (Ghost/Drama)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "雪の山中で旅人が一軒家に泊まるが、そこには恐ろしい事情が隠されていたという緊張感のある噺。"
+  },
+  {
+    "id": "kajimusuko",
+    "title": "火事息子 (Kajimusuko)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "40分",
+    "description": "火消しになった若旦那と家族の再会を描く、親子の情が中心の大きな人情噺。"
+  },
+  {
+    "id": "kaze-udon",
+    "title": "風うどん (Kaze Udon)",
+    "genre": "滑稽噺・上方 (Kamigata Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "うどん屋を舞台にした上方落語の代表的な一席で、寒い夜の雰囲気と会話の面白さが魅力。"
+  },
+  {
+    "id": "katabo",
+    "title": "片棒 (Katabo)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "けちな父親が三人の息子に葬式の希望を聞き、それぞれの性格が極端に表れる噺。"
+  },
+  {
+    "id": "kabochaya",
+    "title": "かぼちゃ屋 (Kabochaya)",
+    "genre": "前座噺 (Zenzabanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "商売を任された若者が、言われた通りに売ろうとして失敗する、前座噺としても知られる一席。"
+  },
+  {
+    "id": "gama-no-abura",
+    "title": "蟇の油 (Gama no Abura)",
+    "genre": "滑稽噺・売り声 (Comedy/Street Pitch)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "大道商人の口上が見せ場の噺で、調子よく売っていた男が酒でだんだん乱れていく。"
+  },
+  {
+    "id": "kamiire",
+    "title": "紙入れ (Kamiire)",
+    "genre": "艶笑・滑稽 (Romantic Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "女性との密会で紙入れを忘れた男が、亭主に見つかるのではないかと慌てる噺。"
+  },
+  {
+    "id": "kamiyui-shinza",
+    "title": "髪結新三 (Kamiyui Shinza)",
+    "genre": "芝居噺 (Theater Story)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "45分",
+    "description": "歌舞伎でも知られる髪結新三を題材にした噺で、人物描写と芝居がかった演出が見どころ。"
+  },
+  {
+    "id": "kaminarimonde",
+    "title": "雷の子 (Kaminari no Ko)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "12分",
+    "description": "雷の子どもをめぐる発想が面白い、短く演じやすい滑稽噺。"
+  },
+  {
+    "id": "kamigata-kenbutsu",
+    "title": "上方見物 (Kamigata Kenbutsu)",
+    "genre": "旅噺・滑稽 (Travel Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "江戸の人が上方を見物する中で、土地柄や言葉の違いから笑いが生まれる噺。"
+  },
+  {
+    "id": "kawarime",
+    "title": "替り目 (Kawarime)",
+    "genre": "滑稽噺・夫婦 (Comedy/Couple)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "酔った夫が妻にくだを巻きながらも、最後には夫婦の情がにじむ人気の一席。"
+  },
+  {
+    "id": "kanban-no-pin",
+    "title": "看板のピン (Kanban no Pin)",
+    "genre": "滑稽噺・博打 (Comedy/Gambling)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "親分の巧みな博打の手口を真似した若者が、同じようにはいかず失敗する噺。"
+  },
+  {
+    "id": "kanninbukuro",
+    "title": "堪忍袋 (Kanninbukuro)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "夫婦げんかの怒りを袋に吹き込むという発想から、さらに騒動が広がるわかりやすい噺。"
+  },
+  {
+    "id": "gankyujima",
+    "title": "巌流島 (Ganryujima)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "船の中でのやり取りから、武勇伝のような名前に結びつく、言葉の面白さがある噺。"
+  },
+  {
+    "id": "gyokei",
+    "title": "御慶 (Gyokei)",
+    "genre": "滑稽噺・正月 (New Year Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "富くじに当たった八五郎が、正月のあいさつを覚えて使おうとする縁起のよい噺。"
+  },
+  {
+    "id": "kinshu-banya",
+    "title": "禁酒番屋 (Kinshu Banya)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "酒を持ち込もうとする者と、それを見張る番人の知恵比べが楽しい噺。"
+  },
+  {
+    "id": "kinmeichiku",
+    "title": "金明竹 (Kinmeichiku)",
+    "genre": "前座噺・言葉遊び (Zenzabanashi/Wordplay)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "早口でまくしたてられる上方言葉を、店番がまったく理解できないところが面白い前座噺。"
+  },
+  {
+    "id": "kushami-koshaku",
+    "title": "くしゃみ講釈 (Kushami Koshaku)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "講釈師を困らせようとする男たちのいたずらが、くしゃみをきっかけに大騒ぎになる噺。"
+  },
+  {
+    "id": "kuchiireya",
+    "title": "口入屋 (Kuchiireya)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "奉公人の紹介をめぐるやり取りから、思わぬ方向へ話が進む上方系でも知られる噺。"
+  },
+  {
+    "id": "kubijochin",
+    "title": "首提灯 (Kubijochin)",
+    "genre": "滑稽・怪奇 (Dark Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "酔った男が侍に斬られても気づかず、首を提灯のように扱うという奇抜な噺。"
+  },
+  {
+    "id": "kuma-no-kawa",
+    "title": "熊の皮 (Kuma no Kawa)",
+    "genre": "滑稽噺・夫婦 (Comedy/Couple)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "医者と患者の会話から夫婦の力関係が見えてくる、短くまとまりのよい滑稽噺。"
+  },
+  {
+    "id": "kuramae-kago",
+    "title": "蔵前駕籠 (Kuramae Kago)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "物騒な夜道を駕籠に乗る客と駕籠屋のやり取りが、疑心暗鬼を生む噺。"
+  },
+  {
+    "id": "keikoya",
+    "title": "稽古屋 (Keikoya)",
+    "genre": "音曲噺・滑稽 (Music/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "芸事の稽古に通う人々を描いた噺で、音曲や稽古場の雰囲気を楽しめる。"
+  },
+  {
+    "id": "genpei-seisuiki",
+    "title": "源平盛衰記 (Genpei Seisuiki)",
+    "genre": "講談風・滑稽 (Historical Comedy)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "源平合戦を題材にしながら、講釈調の語りと脱線の面白さで聞かせる大きな噺。"
+  },
+  {
+    "id": "koigame",
+    "title": "家見舞 (Iemimai)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "新築祝いに変なものを贈ってしまい、相手の家で気まずいやり取りになる噺。"
+  },
+  {
+    "id": "kokoto",
+    "title": "孝行糖 (Kokoto)",
+    "genre": "前座噺 (Zenzabanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "親孝行で褒美をもらった男が、孝行糖を売り歩くようになる明るい前座噺。"
+  },
+  {
+    "id": "gojo-kyu",
+    "title": "強情灸 (Gojo Kyu)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "熱い灸を我慢し続ける強情な男たちの意地の張り合いが笑いを生む噺。"
+  },
+  {
+    "id": "kozu-no-tomi",
+    "title": "高津の富 (Kozu no Tomi)",
+    "genre": "滑稽噺・上方 (Kamigata Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "富くじをめぐる上方落語の名作で、江戸では宿屋の富としても知られる。"
+  },
+  {
+    "id": "konoike-no-inu",
+    "title": "鴻池の犬 (Konoike no Inu)",
+    "genre": "動物噺・上方 (Animal/Kamigata)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "兄弟の犬が別々の運命をたどる、上方落語らしい情とユーモアのある噺。"
+  },
+  {
+    "id": "kofui",
+    "title": "甲府い (Kofui)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "善良な若者が豆腐屋に助けられ、真面目に働いて幸せをつかむ心温まる噺。"
+  },
+  {
+    "id": "koya-takao",
+    "title": "紺屋高尾 (Koya Takao)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "40分",
+    "description": "染物職人と高尾太夫の純愛を描く、江戸落語の代表的な人情噺。"
+  },
+  {
+    "id": "kogane-mochi",
+    "title": "黄金餅 (Kogane Mochi)",
+    "genre": "因業噺 (Greed Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "35分",
+    "description": "金を飲み込んで死んだ男の遺体をめぐり、欲深い僧侶が執念を見せる噺。"
+  },
+  {
+    "id": "gokan-sabaki",
+    "title": "五貫裁き (Gokan Sabaki)",
+    "genre": "政談 (Courtroom Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "金銭トラブルを名奉行が裁く、筋の通った展開が気持ちよい政談噺。"
+  },
+  {
+    "id": "kogoto-kobei",
+    "title": "小言幸兵衛 (Kogoto Kobei)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "長屋の大家が借家人に小言を言い続け、勝手な妄想まで広げてしまう噺。"
+  },
+  {
+    "id": "kogoto-nenbutsu",
+    "title": "小言念仏 (Kogoto Nenbutsu)",
+    "genre": "前座噺 (Zenzabanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "10分",
+    "description": "念仏を唱えながらも周囲への小言が止まらない男を描く、短く演じやすい噺。"
+  },
+  {
+    "id": "shingan",
+    "title": "心眼 (Shingan)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "目の不自由な按摩が一時的に視力を得る夢を見る、切なさの残る人情噺。"
+  },
+  {
+    "id": "gosho-unagi",
+    "title": "後生鰻 (Gosho Unagi)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "生き物を放して功徳を積もうとする男の考えが、だんだんおかしな方向に進む噺。"
+  },
+  {
+    "id": "ko-wa-kasugai",
+    "title": "子は鎹 (Ko wa Kasugai)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "別れた夫婦が子どもをきっかけに再び心を通わせる、『子別れ』の下として知られる名場面。"
+  },
+  {
+    "id": "kohome",
+    "title": "子ほめ (Kohome)",
+    "genre": "前座噺 (Zenzabanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "10分",
+    "description": "お世辞の言い方を教わった男が、子どもを褒めようとして失敗する定番の前座噺。"
+  },
+  {
+    "id": "kowakare",
+    "title": "子別れ (Kowakare)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "45分",
+    "description": "夫婦の別れと親子の再会を描く、落語の人情噺を代表する大作。"
+  },
+  {
+    "id": "gonsuke-zakana",
+    "title": "権助魚 (Gonsuke Zakana)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "主人の浮気をごまかすために魚を買いに行った権助が、かえって話をややこしくする噺。"
+  },
+  {
+    "id": "gonsuke-chochin",
+    "title": "権助提灯 (Gonsuke Chochin)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "本妻と妾の間を行き来する主人と、提灯を持たされる権助のやり取りが面白い噺。"
+  },
+  {
+    "id": "konnyaku-mondo",
+    "title": "蒟蒻問答 (Konnyaku Mondo)",
+    "genre": "滑稽噺・寺 (Temple Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "偽の和尚と本物の僧が問答をするが、身振りが偶然うまく解釈されていく噺。"
+  },
+  {
+    "id": "gonbei-danuki",
+    "title": "権兵衛狸 (Gonbei Danuki)",
+    "genre": "動物噺 (Animal Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "狸に化かされた権兵衛が、逆に狸をからかうようになる親しみやすい噺。"
+  },
+  {
+    "id": "kaidan-chibusa-enoki",
+    "title": "怪談乳房榎 (Kaidan Chibusa Enoki)",
+    "genre": "怪談噺 (Ghost Story)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "45分",
+    "description": "絵師をめぐる因縁と復讐を描く、夏の怪談として知られる大作。"
+  },
+  {
+    "id": "kaicho-no-secchin",
+    "title": "開帳の雪隠 (Kaicho no Secchin)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "開帳でにぎわう場を舞台に、勘違いとずるさが重なって笑いになる軽い噺。"
+  },
+  {
+    "id": "kaimyo-mankintan",
+    "title": "戒名万金丹 (Kaimyo Mankintan)",
+    "genre": "滑稽噺・寺 (Temple Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "戒名をめぐるやり取りを通して、欲と見栄を笑いに変える噺。"
+  },
+  {
+    "id": "kakiwari-nusutto",
+    "title": "書割り盗人 (Kakiwari Nusutto)",
+    "genre": "滑稽噺・泥棒 (Thief Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "盗みに入った男が、書割りのような家の様子に振り回される、だくだく系の軽い噺。"
+  },
+  {
+    "id": "katakiuchi-ya",
+    "title": "敵討屋 (Katakiuchiya)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "敵討ちを商売にしようとする男たちの、物騒なのに間の抜けたやり取りが面白い噺。"
+  },
+  {
+    "id": "kago-isha",
+    "title": "駕篭医者 (Kago Isha)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "駕篭に乗った医者をめぐる勘違いと調子のよい会話で進む、わかりやすい滑稽噺。"
+  },
+  {
+    "id": "kagochin",
+    "title": "駕篭賃 (Kagochin)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "駕篭の料金をめぐる掛け合いが中心の、テンポよく演じやすい噺。"
+  },
+  {
+    "id": "kashihonya-no-yume",
+    "title": "貸本屋の夢 (Kashihonya no Yume)",
+    "genre": "滑稽噺・夢 (Dream Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "貸本屋が夢の中で不思議な出来事に巻き込まれる、空想味のある噺。"
+  },
+  {
+    "id": "shika-seidan",
+    "title": "鹿政談 (Shika Seidan)",
+    "genre": "政談噺 (Courtroom Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "奈良の鹿をめぐる事件を名奉行が裁く、上方でもよく知られる政談噺。"
+  },
+  {
+    "id": "kakkonto-isha",
+    "title": "葛根湯医者 (Kakkonto Isha)",
+    "genre": "滑稽噺・医者 (Doctor Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "何を診ても葛根湯で済ませようとする医者を笑う、短くわかりやすい医者噺。"
+  },
+  {
+    "id": "kamikuzuya",
+    "title": "紙屑屋 (Kamikuzuya)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "紙屑屋に出た若旦那が、いろいろな紙から想像を広げてしまうにぎやかな噺。"
+  },
+  {
+    "id": "kame-sakyu",
+    "title": "亀屋左京 (Kameya Sakyu)",
+    "genre": "人情噺・芝居 (Drama)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "40分",
+    "description": "商家を舞台にした情のある物語で、芝居噺に近い重みを持つ演目。"
+  },
+  {
+    "id": "kawazu-chaban",
+    "title": "蛙茶番 (Kawazu Chaban)",
+    "genre": "滑稽噺・芝居 (Theater Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "素人芝居の準備や舞台裏の混乱を描く、にぎやかな芝居噺。"
+  },
+  {
+    "id": "kanshaku",
+    "title": "かんしゃく (Kanshaku)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "短気な人物の怒り方や周囲とのすれ違いを笑いにした、人物描写が大事な噺。"
+  },
+  {
+    "id": "gion-e",
+    "title": "祇園会 (Gion-e)",
+    "genre": "旅噺・上方 (Travel/Kamigata)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "京の名所や祭りの雰囲気を背景に、旅先での会話や勘違いを楽しむ上方系の噺。"
+  },
+  {
+    "id": "chotan",
+    "title": "長短 (Chotan)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "気の長い男と短い男の対照的な会話で笑わせる、二人の演じ分けが重要な噺。"
+  },
+  {
+    "id": "kyo-no-bubuzuke",
+    "title": "京の茶漬け (Kyo no Bubuzuke)",
+    "genre": "滑稽噺・上方 (Kamigata Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "京都らしい遠回しな言い方を題材にした、文化の違いが笑いになる噺。"
+  },
+  {
+    "id": "kinjitsu-musuko",
+    "title": "近日息子 (Kinjitsu Musuko)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "言葉の意味を取り違える息子の行動が次々に騒動を起こす、前座向きの明るい噺。"
+  },
+  {
+    "id": "kogane-no-daikoku",
+    "title": "黄金の大黒 (Kogane no Daikoku)",
+    "genre": "滑稽噺・長屋 (Tenement Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "長屋に大黒像が見つかったことから、住人たちが浮かれて騒ぐおめでたい噺。"
+  },
+  {
+    "id": "kudanme",
+    "title": "九段目 (Kudanme)",
+    "genre": "芝居噺 (Theater Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "忠臣蔵の九段目を題材に、芝居好きの人物たちの熱中ぶりを笑いにする噺。"
+  },
+  {
+    "id": "kunisada-chuji",
+    "title": "国定忠治 (Kunisada Chuji)",
+    "genre": "講談風・侠客 (Outlaw Drama)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "侠客・国定忠治を題材にした、講談の雰囲気もある力強い演目。"
+  },
+  {
+    "id": "kumasaka",
+    "title": "熊坂 (Kumasaka)",
+    "genre": "芝居噺・講釈 (Theater/Storytelling)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "熊坂長範を題材にした芝居・講釈風の演目で、語りの勢いが見どころ。"
+  },
+  {
+    "id": "kumokago",
+    "title": "蜘蛛駕篭 (Kumokago)",
+    "genre": "滑稽噺・駕篭 (Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "駕篭屋と客のやり取りを中心に、言葉遊びとテンポで聞かせる噺。"
+  },
+  {
+    "id": "kuyami",
+    "title": "くやみ (Kuyami)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "お悔やみの言葉をうまく言えない人物が失敗を重ねる、短く演じやすい噺。"
+  },
+  {
+    "id": "keisei-segawa",
+    "title": "傾城瀬川 (Keisei Segawa)",
+    "genre": "廓噺・人情 (Courtesan Drama)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "遊女瀬川をめぐる情と憧れを描く、廓噺の雰囲気を持つ演目。"
+  },
+  {
+    "id": "koibune",
+    "title": "鯉舟 (Koibune)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "鯉をめぐる出来事から人物の欲や勘違いが見える、軽めの滑稽噺。"
+  },
+  {
+    "id": "kosuke-mochi",
+    "title": "幸助餅 (Kosuke Mochi)",
+    "genre": "人情噺・相撲 (Ninjo/Sumo)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "40分",
+    "description": "相撲取りを応援する餅屋の情と意地を描いた、上方落語の人情噺。"
+  },
+  {
+    "id": "goinmon",
+    "title": "御印文 (Goinmon)",
+    "genre": "滑稽噺・信仰 (Comedy/Faith)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "ありがたい御印文をめぐって、信心と勘違いが入り混じる噺。"
+  },
+  {
+    "id": "gonin-mawashi",
+    "title": "五人廻し (Gonin Mawashi)",
+    "genre": "廓噺 (Courtesan Comedy)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "廓で待たされる五人の客を描き分ける、人物表現が見どころの噺。"
+  },
+  {
+    "id": "gobanwari",
+    "title": "碁盤割 (Gobanwari)",
+    "genre": "人情噺・武士 (Samurai Drama)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "柳田格之進に関わる物語として知られ、武士の誇りや人の情を描く重めの演目。"
+  },
+  {
+    "id": "gonen-sabaki",
+    "title": "五人裁き (Gonin Sabaki)",
+    "genre": "政談噺 (Courtroom Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "複数の人物の言い分を名奉行がさばいていく、政談噺らしい構成の演目。"
+  },
+  {
+    "id": "sasaki-sabaki",
+    "title": "佐々木裁き (Sasaki Sabaki)",
+    "genre": "政談・滑稽 (Courtroom/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "子どもの裁きごっこを見た奉行が、その才知に感心する、機知と人情が楽しい政談もの。"
+  },
+  {
+    "id": "sanada-kozo",
+    "title": "真田小僧 (Sanada Kozo)",
+    "genre": "前座噺・滑稽 (Zenzabanashi/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "小遣いをせびる子どもが、大人を相手に口八丁で立ち回る、親子の会話が楽しい前座噺。"
+  },
+  {
+    "id": "sagi-tori",
+    "title": "鷺とり (Sagi Tori)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "鳥を捕まえようとする男が、思わぬ失敗を重ねる、動きの面白さが出しやすい噺。"
+  },
+  {
+    "id": "saru-goke",
+    "title": "猿後家 (Saru Goke)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "猿に似ていると言われることを嫌う後家をめぐって、周囲が気を使いながら失敗する噺。"
+  },
+  {
+    "id": "sanya-nagaya",
+    "title": "三軒長屋 (Sangen Nagaya)",
+    "genre": "長屋噺 (Tenement Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "三軒続きの長屋を舞台に、住人たちの駆け引きと騒動を描く、会話のテンポが重要な噺。"
+  },
+  {
+    "id": "sango-jigo",
+    "title": "山号寺号 (Sango Jigo)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "山号や寺号をめぐる言葉遊びが中心の、軽く演じやすい古典落語。"
+  },
+  {
+    "id": "sanjikkoku",
+    "title": "三十石 (Sanjikkoku)",
+    "genre": "旅噺・上方 (Travel/Kamigata)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "45分",
+    "description": "京都から大坂へ向かう三十石船を舞台に、船中のにぎやかな人間模様を描く上方落語の大ネタ。"
+  },
+  {
+    "id": "sandan-no-heibei",
+    "title": "算段の平兵衛 (Sandan no Heibei)",
+    "genre": "上方・悪人噺 (Kamigata/Dark Comedy)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "40分",
+    "description": "悪知恵の働く平兵衛が周囲を巻き込む、上方落語らしいしたたかさのある噺。"
+  },
+  {
+    "id": "sannin-tabi",
+    "title": "三人旅 (Sannin Tabi)",
+    "genre": "旅噺・滑稽 (Travel/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "旅に出た三人組が宿場で騒動を起こす、道中付けの楽しさがある古典落語。"
+  },
+  {
+    "id": "sannenme",
+    "title": "三年目 (Sannenme)",
+    "genre": "人情・怪談 (Drama/Ghost)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "亡くなった妻が三年目に姿を現す、怪談の形をとりながら夫婦の情を描く噺。"
+  },
+  {
+    "id": "sanpo-ichiryo-zon",
+    "title": "三方一両損 (Sanpo Ichiryo Zon)",
+    "genre": "政談・人情 (Courtroom/Drama)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "一両をめぐる意地と正直さを、大岡裁きで丸く収める、江戸っ子気質がよく出る名作。"
+  },
+  {
+    "id": "sanmai-kisho",
+    "title": "三枚起請 (Sanmai Kisho)",
+    "genre": "廓噺・滑稽 (Kuruwa/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "同じ起請文をもらった男たちが真相を知り、廓でのだまし合いに翻弄される噺。"
+  },
+  {
+    "id": "shikaseidan",
+    "title": "鹿政談 (Shika Seidan)",
+    "genre": "政談・人情 (Courtroom/Drama)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "奈良の鹿をめぐる事件を奉行が裁く、知恵と情けが光る政談もの。"
+  },
+  {
+    "id": "jigoku-bakkei",
+    "title": "地獄八景 (Jigoku Bakkei)",
+    "genre": "地獄巡り・上方 (Hell Tour/Kamigata)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "60分",
+    "description": "地獄を観光するように巡りながら、次々と笑いを重ねる上方落語の大作。"
+  },
+  {
+    "id": "shijimi-uri",
+    "title": "蜆売り (Shijimi Uri)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "蜆を売る少年をめぐり、親子や周囲の情が描かれる、しっとりした人情噺。"
+  },
+  {
+    "id": "shichidanme",
+    "title": "七段目 (Shichidanme)",
+    "genre": "芝居噺・上方 (Kabuki/Kamigata)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "芝居好きの若旦那が忠臣蔵の七段目になりきって騒動を起こす、芝居好き向けの噺。"
+  },
+  {
+    "id": "shichido-gitsune",
+    "title": "七度狐 (Shichido Gitsune)",
+    "genre": "旅噺・上方 (Travel/Kamigata)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "旅人が狐に何度も化かされる、上方落語らしい道中のにぎやかさがある噺。"
+  },
+  {
+    "id": "shinagawa-shinju",
+    "title": "品川心中 (Shinagawa Shinju)",
+    "genre": "廓噺・滑稽 (Kuruwa/Comedy)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "40分",
+    "description": "遊女に心中を持ちかけられた男が、思わぬ形で振り回される、廓噺の代表作。"
+  },
+  {
+    "id": "shinigami",
+    "title": "死神 (Shinigami)",
+    "genre": "怪談・滑稽 (Ghost/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "死神と契約した男が医者として成功するが、命のろうそくをめぐって運命に追い詰められる名作。"
+  },
+  {
+    "id": "shibahama",
+    "title": "芝浜 (Shibahama)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "45分",
+    "description": "魚勝が浜で拾った財布をめぐり、夫婦の愛情と再生を描く、江戸落語を代表する人情噺。"
+  },
+  {
+    "id": "shimekomi",
+    "title": "締め込み (Shimekomi)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "泥棒が入った家で夫婦喧嘩が始まり、泥棒まで巻き込まれる、テンポのよい長屋噺。"
+  },
+  {
+    "id": "jaganso",
+    "title": "蛇含草 (Jaganso)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "餅を食べすぎた男が不思議な薬草を試す、ばかばかしさと奇想天外さが魅力の噺。"
+  },
+  {
+    "id": "shakuya-kaidan",
+    "title": "借家怪談 (Shakuya Kaidan)",
+    "genre": "怪談・滑稽 (Ghost/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "空き家にまつわる怪談を利用しようとする人々の思惑がずれていく、怖さより笑いが中心の噺。"
+  },
+  {
+    "id": "shashin-no-adauchi",
+    "title": "写真の仇討ち (Shashin no Adauchi)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "写真をめぐって仇討ち騒動が起こる、近代的な道具を古典落語らしく扱った噺。"
+  },
+  {
+    "id": "shakkuri-seidan",
+    "title": "しゃっくり政談 (Shakkuri Seidan)",
+    "genre": "政談・滑稽 (Courtroom/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "しゃっくりが止まらない人物をめぐり、裁きの場まで巻き込む軽妙な政談もの。"
+  },
+  {
+    "id": "shamisen-kurige",
+    "title": "三味線栗毛 (Shamisen Kurige)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "40分",
+    "description": "三味線の音色と人の情を軸にした、しっとり聞かせるタイプの人情噺。"
+  },
+  {
+    "id": "shuron",
+    "title": "宗論 (Shuron)",
+    "genre": "宗教噺・滑稽 (Religion/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "親子で宗派が違うことから口論になるが、最後は意外な笑いに落ちる噺。"
+  },
+  {
+    "id": "jugemu",
+    "title": "寿限無 (Jugemu)",
+    "genre": "前座噺 (Zenzabanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "10分",
+    "description": "長すぎる名前を付けられた子どもをめぐる、おめでたく覚えやすい前座噺の代表作。"
+  },
+  {
+    "id": "shochikubai",
+    "title": "松竹梅 (Shochikubai)",
+    "genre": "祝儀噺・滑稽 (Celebration/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "婚礼や祝いの席にふさわしい言葉をめぐって、男たちが失敗する明るい噺。"
+  },
+  {
+    "id": "shiroto-unagi",
+    "title": "素人鰻 (Shiroto Unagi)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "鰻屋を始めた素人が、職人に振り回されながら商売に苦戦する噺。"
+  },
+  {
+    "id": "nedoko",
+    "title": "寝床 (Nedoko)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "義太夫好きの旦那が周囲に無理やり聞かせようとし、長屋中が逃げ回る芸事の噺。"
+  },
+  {
+    "id": "cha-no-yu",
+    "title": "茶の湯 (Cha no Yu)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "茶の湯を知らない隠居たちが、見よう見まねでとんでもない茶会を開く噺。"
+  },
+  {
+    "id": "shiroto-shibai",
+    "title": "素人芝居 (Shiroto Shibai)",
+    "genre": "芝居噺・滑稽 (Kabuki/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "素人が芝居を演じようとして、役になりきりすぎたり段取りを間違えたりする噺。"
+  },
+  {
+    "id": "shiroto-gidayu",
+    "title": "素人義太夫 (Shiroto Gidayu)",
+    "genre": "芸事噺 (Performing Arts Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "義太夫を習いたての素人が得意になり、周囲を困らせる芸事を題材にした噺。"
+  },
+  {
+    "id": "shingan",
+    "title": "心眼 (Shingan)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "目の不自由な男が願掛けによって一時的に目が見えるようになるが、夫婦の情に気づかされる名作。"
+  },
+  {
+    "id": "shinkei-kasane-ga-fuchi",
+    "title": "真景累ヶ淵 (Shinkei Kasane ga Fuchi)",
+    "genre": "怪談噺 (Ghost Story)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "60分",
+    "description": "因縁と怨念が重なっていく、三遊亭圓朝作の怪談噺を代表する大作。"
+  },
+  {
+    "id": "take-no-suisen",
+    "title": "竹の水仙 (Take no Suisen)",
+    "genre": "名工噺・人情 (Master Craftsman/Drama)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "名工・左甚五郎が宿で竹の水仙を作る、職人の粋と人情が味わえる噺。"
+  },
+  {
+    "id": "nezumi",
+    "title": "ねずみ (Nezumi)",
+    "genre": "名工噺・人情 (Master Craftsman/Drama)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "左甚五郎が彫ったねずみをきっかけに、宿屋の親子を助ける人情噺。"
+  },
+  {
+    "id": "shinbun-kiji",
+    "title": "新聞記事 (Shinbun Kiji)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "新聞で読んだ話をまねしようとする男が、勘違いから騒動を起こす軽い噺。"
+  },
+  {
+    "id": "suika-uri",
+    "title": "西瓜売り (Suika Uri)",
+    "genre": "売り声・滑稽 (Peddler/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "西瓜売りの呼び声や商売のやり取りを楽しむ、夏らしい軽い噺。"
+  },
+  {
+    "id": "suzugamori",
+    "title": "鈴ヶ森 (Suzugamori)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "追いはぎのまねをする男たちが、思い通りにいかず失敗する、前座でも演じやすい噺。"
+  },
+  {
+    "id": "sudofu",
+    "title": "酢豆腐 (Sudofu)",
+    "genre": "知ったかぶり (Pretentious Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "腐った豆腐をめぐって、通人気取りの若旦那が知ったかぶりをする滑稽噺。"
+  },
+  {
+    "id": "sutokuin",
+    "title": "崇徳院 (Sutokuin)",
+    "genre": "恋愛・滑稽 (Romance/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "若旦那が恋わずらいになり、短歌を手がかりに相手を探す、明るい恋の噺。"
+  },
+  {
+    "id": "sumiyoshi-kago",
+    "title": "住吉駕篭 (Sumiyoshi Kago)",
+    "genre": "上方・滑稽 (Kamigata/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "駕籠屋と客のやり取りを中心にした、上方落語らしいテンポのよい噺。"
+  },
+  {
+    "id": "seisho-muhitsu",
+    "title": "清書無筆 (Seisho Muhitsu)",
+    "genre": "無筆噺・滑稽 (Illiteracy/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "字が読めない人物が、知ったかぶりで手紙や文字を扱おうとして失敗する噺。"
+  },
+  {
+    "id": "senki-no-mushi",
+    "title": "疝気の虫 (Senki no Mushi)",
+    "genre": "滑稽・奇想 (Comedy/Fantasy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "病気の原因を虫として擬人化し、その虫の行動を面白く描く独特な噺。"
+  },
+  {
+    "id": "zenkoji-kotsuyose",
+    "title": "善光寺骨寄せ (Zenkoji Kotsuyose)",
+    "genre": "奇想・滑稽 (Fantasy/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "骨を集めて人をよみがえらせるという奇想天外な発想を笑いにした噺。"
+  },
+  {
+    "id": "zenzai-kosha",
+    "title": "ぜんざい公社 (Zenzai Kosha)",
+    "genre": "新作落語・風刺 (Modern/Satire)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "ぜんざいを食べるだけなのに役所の手続きのように面倒になる、官僚的な仕組みを笑う新作落語。"
+  },
+  {
+    "id": "senryo-mikan",
+    "title": "千両みかん (Senryo Mikan)",
+    "genre": "上方・滑稽 (Kamigata/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "真夏にみかんを食べたい若旦那のため、番頭が奔走する上方落語の名作。"
+  },
+  {
+    "id": "somen-kui",
+    "title": "そうめん食い (Somen Kui)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "そうめんを食べる場面を中心に、しぐさと間で笑わせる軽い噺。"
+  },
+  {
+    "id": "sokotsu-isha",
+    "title": "粗忽医者 (Sokotsu Isha)",
+    "genre": "粗忽噺 (Careless Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "そそっかしい医者が患者を診ることで、かえって騒動を大きくしてしまう噺。"
+  },
+  {
+    "id": "sokotsu-nagaya",
+    "title": "粗忽長屋 (Sokotsu Nagaya)",
+    "genre": "粗忽噺 (Careless Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "行き倒れの本人確認をめぐり、そそっかしい男たちが常識外れの会話を繰り広げる名作。"
+  },
+  {
+    "id": "sokotsu-no-kugi",
+    "title": "粗忽の釘 (Sokotsu no Kugi)",
+    "genre": "粗忽噺 (Careless Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "引っ越した男が釘を打つ場所を間違え、隣家まで巻き込むそそっかしい噺。"
+  },
+  {
+    "id": "sokotsu-no-shisha",
+    "title": "粗忽の使者 (Sokotsu no Shisha)",
+    "genre": "粗忽噺 (Careless Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "使者に出た男が肝心な用件を忘れてしまい、周囲を巻き込んで思い出そうとする噺。"
+  },
+  {
+    "id": "soba-sei",
+    "title": "そば清 (Soba Sei)",
+    "genre": "滑稽・奇想 (Comedy/Fantasy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "そばを大量に食べる男が、蛇の薬草をまねてさらに食べようとする、食べ物噺の人気作。"
+  },
+  {
+    "id": "soba-no-tonosama",
+    "title": "蕎麦の殿様 (Soba no Tonosama)",
+    "genre": "殿様噺・滑稽 (Lord/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "蕎麦に興味を持った殿様が、庶民の食べ方をまねようとして失敗する噺。"
+  },
+  {
+    "id": "zorozoro",
+    "title": "ぞろぞろ (Zorozoro)",
+    "genre": "前座噺・滑稽 (Zenzabanashi/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "願掛けのご利益で品物が次々と出てくる、縁起のよい前座噺。"
+  },
+  {
+    "id": "sakuramiya",
+    "title": "桜の宮 (Sakura no Miya)",
+    "genre": "花見・滑稽 (Cherry Blossom/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "花見を舞台にした仇討ち趣向の噺で、春の華やかさと芝居がかった面白さがある。"
+  },
+  {
+    "id": "sakasa-no-soren",
+    "title": "逆さの葬礼 (Sakasa no Soren)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "葬礼をめぐる常識外れの発想から、次々とおかしなやり取りが生まれる噺。"
+  },
+  {
+    "id": "sakazuki-no-tonosama",
+    "title": "杯の殿様 (Sakazuki no Tonosama)",
+    "genre": "殿様噺・滑稽 (Lord/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "廓遊びや酒席に憧れる殿様が、世間知らずゆえにずれた行動をして笑いを生む噺。"
+  },
+  {
+    "id": "zako-hachi",
+    "title": "ざこ八 (Zako Hachi)",
+    "genre": "滑稽・人情 (Comedy/Drama)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "軽妙な人物描写とやり取りで聞かせる、古典らしい味わいのある噺。"
+  },
+  {
+    "id": "sarayashiki",
+    "title": "皿屋敷 (Sarayashiki)",
+    "genre": "怪談・滑稽 (Ghost/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "お菊の幽霊で知られる怪談を、落語らしく笑いに変えた人気の怪談噺。"
+  },
+  {
+    "id": "saru-mawashi",
+    "title": "猿廻し (Saru Mawashi)",
+    "genre": "芸能噺 (Performing Arts Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "猿廻しの芸や客とのやり取りを題材にした、しぐさとリズムが大切な噺。"
+  },
+  {
+    "id": "zaruyah",
+    "title": "ざるや (Zaruya)",
+    "genre": "商売噺・滑稽 (Business/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "ざる売りの商売をめぐる軽い噺で、売り声や言葉の調子を楽しめる。"
+  },
+  {
+    "id": "sannin-kuse",
+    "title": "三人癖 (Sannin Kuse)",
+    "genre": "癖噺・滑稽 (Habit Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "それぞれ変な癖を持つ三人が集まり、互いの癖を笑い合うわかりやすい噺。"
+  },
+  {
+    "id": "sannin-muhitsu",
+    "title": "三人無筆 (Sannin Muhitsu)",
+    "genre": "無筆噺・滑稽 (Illiteracy/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "字の読めない三人が、文字をめぐって知ったかぶりを重ねる滑稽噺。"
+  },
+  {
+    "id": "sanbyaku-mochi",
+    "title": "三百餅 (Sanbyaku Mochi)",
+    "genre": "狂歌・滑稽 (Kyoka/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "狂歌や餅をめぐるやり取りが中心の、言葉遊びの楽しさがある噺。"
+  },
+  {
+    "id": "shi-no-ji-girai",
+    "title": "しの字嫌い (Shi no Ji Girai)",
+    "genre": "言葉遊び (Wordplay Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "ある文字を言ってはいけないという制限から、会話がどんどん不自然になる言葉遊びの噺。"
+  },
+  {
+    "id": "shinda-now-ima",
+    "title": "死ぬなら今 (Shinu Nara Ima)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "死や地獄を題材にしながらも、軽い笑いに仕上がる短めの噺。"
+  },
+  {
+    "id": "shibai-suki",
+    "title": "芝居好き (Shibai Suki)",
+    "genre": "芝居噺 (Kabuki Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "芝居が好きすぎる人物が、日常の場面まで芝居調にしてしまう噺。"
+  },
+  {
+    "id": "shibin",
+    "title": "しびん (Shibin)",
+    "genre": "道具噺・滑稽 (Object Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "道具の名前や使い道をめぐる勘違いで笑わせる、短く扱いやすい噺。"
+  },
+  {
+    "id": "shiro-inu",
+    "title": "白狗 (Shiro Inu)",
+    "genre": "動物噺・滑稽 (Animal Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "白い犬をめぐる勘違いややり取りを楽しむ、軽い動物噺。"
+  },
+  {
+    "id": "suijin",
+    "title": "水神 (Suijin)",
+    "genre": "怪異・滑稽 (Mystery/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "水神にまつわる出来事を題材にした、少し不思議な雰囲気のある噺。"
+  },
+  {
+    "id": "sugawara-musuko",
+    "title": "菅原息子 (Sugawara Musuko)",
+    "genre": "芝居・滑稽 (Kabuki/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "菅原伝授手習鑑など芝居の知識を背景にした、芝居好きに向いた噺。"
+  },
+  {
+    "id": "suzume-kago",
+    "title": "雀駕篭 (Suzume Kago)",
+    "genre": "駕籠噺・滑稽 (Palankeen/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "駕籠屋と客のやり取りを中心に、軽快な会話で進む噺。"
+  },
+  {
+    "id": "sumo-fukei",
+    "title": "相撲風景 (Sumo Fukei)",
+    "genre": "相撲噺 (Sumo Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "相撲にまつわるしぐさや掛け声を楽しめる、演じやすい短めの噺。"
+  },
+  {
+    "id": "sekitori-senryo-nobori",
+    "title": "関取千両幟 (Sekitori Senryo Nobori)",
+    "genre": "相撲・人情 (Sumo/Drama)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "40分",
+    "description": "相撲取りの勝負と人情を描く、講談や芝居の香りもある重めの演目。"
+  },
+  {
+    "id": "sekku-mae",
+    "title": "節句前 (Sekku Mae)",
+    "genre": "季節噺・滑稽 (Seasonal/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "節句を前にした町内や家庭の準備をめぐる、季節感のある軽い噺。"
+  },
+  {
+    "id": "sejiyah",
+    "title": "世辞屋 (Sejiya)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "お世辞を言うことを商売のように扱い、人間関係のずれを笑いにする噺。"
+  },
+  {
+    "id": "sokotsu-daimyo",
+    "title": "粗忽大名 (Sokotsu Daimyo)",
+    "genre": "大名噺・粗忽 (Lord/Careless Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "そそっかしい大名が周囲を困らせる、身分の高さと間抜けさの差が面白い噺。"
+  },
+  {
+    "id": "daiku-shirabe",
+    "title": "大工調べ (Daiku Shirabe)",
+    "genre": "裁き噺・滑稽噺 (Judgment/Comedy)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "大工の与太郎と大家のもめごとを、棟梁が啖呵でさばこうとする江戸落語の名作。"
+  },
+  {
+    "id": "taiko-bara",
+    "title": "たいこ腹 (Taiko Bara)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "若旦那が幇間の腹に鍼を打とうとする、痛さと怖さの演技が見どころの噺。"
+  },
+  {
+    "id": "daisho",
+    "title": "代書 (Daisho)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "代書屋にやって来た男の珍妙な履歴が次々と明らかになる、桂米朝で知られる上方落語。"
+  },
+  {
+    "id": "daimyo-shogi",
+    "title": "大名将棋 (Daimyo Shogi)",
+    "genre": "殿様噺・滑稽噺 (Lord/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "将棋好きの殿様と家来たちのやり取りを描く、権力者のずれた感覚が面白い噺。"
+  },
+  {
+    "id": "tairabayashi",
+    "title": "平林 (Tairabayashi)",
+    "genre": "前座噺 (Zenzabanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "10分",
+    "description": "『平林』という名前の読み方がわからず、人に聞くたびに読み方が変わっていく言葉遊びの噺。"
+  },
+  {
+    "id": "takao",
+    "title": "高尾 (Takao)",
+    "genre": "廓噺・人情噺 (Courtesan/Drama)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "名高い花魁・高尾をめぐる情と憧れを描く、廓噺らしい華やかさのある演目。"
+  },
+  {
+    "id": "hango-ko",
+    "title": "反魂香 (Hangonko)",
+    "genre": "怪談・人情 (Ghost/Drama)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "亡き高尾太夫への思いと不思議な香をめぐる、怪談味と人情味を持つ噺。"
+  },
+  {
+    "id": "takasago-ya",
+    "title": "高砂や (Takasago Ya)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "婚礼のめでたい謡『高砂』を題材に、知ったかぶりや言い間違いが笑いを生む噺。"
+  },
+  {
+    "id": "takadanobaba",
+    "title": "高田馬場 (Takadanobaba)",
+    "genre": "武士噺・滑稽噺 (Samurai/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "仇討ちの名所として知られる高田馬場を舞台に、武士らしさと滑稽さが交差する噺。"
+  },
+  {
+    "id": "tagaya",
+    "title": "たがや (Tagaya)",
+    "genre": "江戸噺・滑稽噺 (Edo/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "両国の川開きを背景に、職人と侍の意地がぶつかる威勢のよい江戸落語。"
+  },
+  {
+    "id": "dakudaku",
+    "title": "だくだく (Dakudaku)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "家財道具を壁に絵で描いて済ませる男と泥棒の、想像力で進むばかばかしい噺。"
+  },
+  {
+    "id": "take-no-suisen",
+    "title": "竹の水仙 (Take no Suisen)",
+    "genre": "名人噺・人情噺 (Master Craftsman/Drama)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "左甚五郎が宿賃代わりに作った竹の水仙が評判を呼ぶ、職人の粋を描いた名作。"
+  },
+  {
+    "id": "tako-shibai",
+    "title": "蛸芝居 (Tako Shibai)",
+    "genre": "上方噺・滑稽噺 (Kamigata/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "蛸が芝居のように振る舞う奇想天外な展開が楽しい、上方らしいにぎやかな噺。"
+  },
+  {
+    "id": "tachikiri",
+    "title": "たちきり (Tachikiri)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "40分",
+    "description": "若旦那と芸者の恋を描き、線香が切れる場面が印象的な上方落語の名作。"
+  },
+  {
+    "id": "chihayafuru",
+    "title": "千早ふる (Chihayafuru)",
+    "genre": "知ったかぶり (Improvisation)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "百人一首の意味を聞かれた隠居が、もっともらしい作り話でごまかす定番の滑稽噺。"
+  },
+  {
+    "id": "tanuki",
+    "title": "狸 (Tanuki)",
+    "genre": "動物噺・滑稽噺 (Animal/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "人を化かす狸をめぐる、素朴で親しみやすい動物噺。"
+  },
+  {
+    "id": "tanuki-sai",
+    "title": "狸賽 (Tanuki Sai)",
+    "genre": "前座噺・滑稽噺 (Zenzabanashi/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "10分",
+    "description": "助けた狸が恩返しにサイコロへ化けるが、思い通りにはいかない前座噺の定番。"
+  },
+  {
+    "id": "tanuki-no-satsu",
+    "title": "狸の札 (Tanuki no Satsu)",
+    "genre": "前座噺・動物噺 (Zenzabanashi/Animal)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "10分",
+    "description": "狸が恩返しにお札へ化ける、かわいらしさとテンポのよさが魅力の噺。"
+  },
+  {
+    "id": "tanuki-dera",
+    "title": "狸寺 (Tanuki Dera)",
+    "genre": "動物噺・怪異 (Animal/Fantasy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "寺にまつわる狸の不思議なふるまいを描く、怪異と笑いが混じる噺。"
+  },
+  {
+    "id": "tanokyu",
+    "title": "田能久 (Tanokyu)",
+    "genre": "昔噺・怪異 (Folktale/Fantasy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "旅役者の田能久が大蛇と出会い、知恵で切り抜ける昔話風のわかりやすい噺。"
+  },
+  {
+    "id": "tameshizake",
+    "title": "試し酒 (Tameshizake)",
+    "genre": "酒の噺・滑稽噺 (Sake/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "大酒飲みの男が五升の酒を飲めるか試される、豪快さとサゲが楽しい噺。"
+  },
+  {
+    "id": "tarachine",
+    "title": "たらちね (Tarachine)",
+    "genre": "前座噺・滑稽噺 (Zenzabanashi/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "言葉遣いがやたら丁寧な嫁を迎えた男が、その言い回しに振り回される前座噺。"
+  },
+  {
+    "id": "tanmei",
+    "title": "短命 (Tanmei)",
+    "genre": "艶笑・滑稽 (Light Romance/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "美人の妻をもつ家の男がなぜ短命なのかを、隠居が遠回しに説明する噺。"
+  },
+  {
+    "id": "chakin",
+    "title": "茶金 (Chakin)",
+    "genre": "茶道噺・滑稽噺 (Tea/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "茶道具の鑑定をめぐって、目利きと素人の勘違いが重なる噺。"
+  },
+  {
+    "id": "cha-no-yu",
+    "title": "茶の湯 (Cha no Yu)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "茶の湯を知らない隠居が、青きな粉や椋の皮で無茶な茶会を開く爆笑噺。"
+  },
+  {
+    "id": "chawan-yashiki",
+    "title": "茶碗屋敷 (Chawan Yashiki)",
+    "genre": "道具噺・怪談 (Antique/Ghost)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "茶碗にまつわる屋敷の不思議を描く、道具噺と怪談の雰囲気を持つ演目。"
+  },
+  {
+    "id": "choja-banzuke",
+    "title": "長者番付 (Choja Banzuke)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "金持ちの番付をめぐる人々の欲や見栄を、軽妙に描いた噺。"
+  },
+  {
+    "id": "chozu-mawashi",
+    "title": "手水廻し (Chozu Mawashi)",
+    "genre": "上方噺・滑稽噺 (Kamigata/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "旅先の宿で『手水』の意味を取り違え、大騒動になる上方落語の代表作。"
+  },
+  {
+    "id": "chotan",
+    "title": "長短 (Chotan)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "気の長い男と気の短い男の対照的な会話を楽しむ、演じ分けが大事な噺。"
+  },
+  {
+    "id": "chochin-ya",
+    "title": "提灯屋 (Chochin Ya)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "提灯に書く文字をめぐって、無筆や勘違いが笑いにつながる軽い噺。"
+  },
+  {
+    "id": "chonai-no-wakaishu",
+    "title": "町内の若い衆 (Chonai no Wakaishu)",
+    "genre": "長屋噺・滑稽噺 (Tenement/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "町内の若い者を呼び出すつもりが、言い回しの勘違いでおかしなことになる噺。"
+  },
+  {
+    "id": "chirito-techin",
+    "title": "ちりとてちん (Chirito Techin)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "腐った豆腐を珍味だと偽って、知ったかぶりの客に食べさせる上方由来の人気噺。"
+  },
+  {
+    "id": "tsuki-uma",
+    "title": "付き馬 (Tsuki Uma)",
+    "genre": "廓噺・滑稽噺 (Courtesan/Comedy)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "遊郭で遊んだ男が支払いを逃れようとし、付き馬との駆け引きを展開する廓噺。"
+  },
+  {
+    "id": "tsugi-no-goyobi",
+    "title": "次の御用日 (Tsugi no Goyobi)",
+    "genre": "裁き噺・滑稽噺 (Judgment/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "裁判の場でしゃっくりが止まらない男をめぐる、政談ものの要素を持つ滑稽噺。"
+  },
+  {
+    "id": "tsukuda-matsuri",
+    "title": "佃祭 (Tsukuda Matsuri)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "佃島の祭りを背景に、命拾いと人の縁を描く江戸情緒あふれる人情噺。"
+  },
+  {
+    "id": "tsujiura",
+    "title": "辻占 (Tsujiura)",
+    "genre": "廓噺・恋愛 (Courtesan/Romance)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "辻占をきっかけに男女の思惑がすれ違う、色気と笑いのある噺。"
+  },
+  {
+    "id": "tsujiura-jaya",
+    "title": "辻占茶屋 (Tsujiura Jaya)",
+    "genre": "上方噺・廓噺 (Kamigata/Courtesan)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "茶屋を舞台に、恋心と駆け引きが描かれる上方落語の艶やかな演目。"
+  },
+  {
+    "id": "tsubo-zan",
+    "title": "壷算 (Tsubo Zan)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "買い物上手の男が壺を買う際、店を相手に巧妙な計算で得をしようとする噺。"
+  },
+  {
+    "id": "tsuru",
+    "title": "つる (Tsuru)",
+    "genre": "前座噺 (Zenzabanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "10分",
+    "description": "鶴の名前の由来を隠居がもっともらしく語る、短く覚えやすい前座噺。"
+  },
+  {
+    "id": "tsurutsuru",
+    "title": "つるつる (Tsurutsuru)",
+    "genre": "幇間噺・滑稽噺 (Taikomochi/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "幇間が女性との約束に浮かれる様子を描く、調子のよさと失敗が楽しい噺。"
+  },
+  {
+    "id": "tegami-muhitsu",
+    "title": "手紙無筆 (Tegami Muhitsu)",
+    "genre": "無筆噺・滑稽噺 (Illiteracy/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "字の読めない男たちが手紙をめぐって右往左往する、無筆もののわかりやすい噺。"
+  },
+  {
+    "id": "dekigokoro",
+    "title": "出来心 (Dekigokoro)",
+    "genre": "泥棒噺・滑稽噺 (Thief/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "泥棒に入った男が、家の中で思わぬ展開に巻き込まれる軽妙な泥棒噺。"
+  },
+  {
+    "id": "tekkaisenin",
+    "title": "鉄拐仙人 (Tekkai Sennin)",
+    "genre": "奇想噺・滑稽噺 (Fantasy/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "魂を体から抜け出させる仙人を題材にした、奇想天外で演技の幅が出る噺。"
+  },
+  {
+    "id": "teresuko",
+    "title": "てれすこ (Teresuko)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "正体不明の魚の名前をめぐる珍問答が楽しい、言葉遊びの要素が強い噺。"
+  },
+  {
+    "id": "tengu-sabaki",
+    "title": "天狗裁き (Tengu Sabaki)",
+    "genre": "夢の噺・滑稽噺 (Dream/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "見た夢の内容を聞かれ続け、ついには天狗まで現れる、繰り返しが面白い人気噺。"
+  },
+  {
+    "id": "tensai",
+    "title": "天災 (Tensai)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "短気な男が心学の先生から『天災』という考え方を教わるが、なかなかうまくいかない噺。"
+  },
+  {
+    "id": "tenshiki",
+    "title": "転失気 (Tenshiki)",
+    "genre": "前座噺・滑稽噺 (Zenzabanashi/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "10分",
+    "description": "和尚が知らない言葉『転失気』を知ったかぶりし、小僧に探らせる前座噺の定番。"
+  },
+  {
+    "id": "tenjin-yama",
+    "title": "天神山 (Tenjin Yama)",
+    "genre": "上方噺・奇想噺 (Kamigata/Fantasy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "墓参りと花見をきっかけに不思議な縁が生まれる、上方落語らしい奇妙な味の噺。"
+  },
+  {
+    "id": "tentaku",
+    "title": "転宅 (Tentaku)",
+    "genre": "泥棒噺・滑稽噺 (Thief/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "泥棒が入った家の女性にうまく丸め込まれ、逆に振り回される艶笑味のある噺。"
+  },
+  {
+    "id": "tennoji-mairi",
+    "title": "天王寺詣り (Tennoji Mairi)",
+    "genre": "上方噺・旅噺 (Kamigata/Travel)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "天王寺への参詣を題材に、道中のにぎわいや大阪らしい会話を楽しむ上方落語。"
+  },
+  {
+    "id": "do-kan",
+    "title": "道潅 (Dokan)",
+    "genre": "前座噺・知ったかぶり (Zenzabanashi/Improvisation)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "太田道灌の山吹の歌を題材に、知ったかぶりと勘違いが笑いになる前座噺。"
+  },
+  {
+    "id": "doguya",
+    "title": "道具屋 (Doguya)",
+    "genre": "前座噺・商売噺 (Zenzabanashi/Business)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "与太郎が道具屋を始めるが、売り物の説明がめちゃくちゃで失敗ばかりする定番噺。"
+  },
+  {
+    "id": "tonasuya-seidan",
+    "title": "唐茄子屋政談 (Tonasuya Seidan)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "45分",
+    "description": "勘当された若旦那が唐茄子売りを通して人の情けを知る、長講向きの人情噺。"
+  },
+  {
+    "id": "dobutsuen",
+    "title": "動物園 (Dobutsuen)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "男が虎の着ぐるみを着て動物園で働くことになり、本物の虎を恐れて大騒ぎする噺。"
+  },
+  {
+    "id": "doraku-musuko",
+    "title": "道楽息子 (Doraku Musuko)",
+    "genre": "若旦那噺・滑稽噺 (Young Master/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "道楽が過ぎる若旦那をめぐり、親や周囲が振り回される若旦那ものの噺。"
+  },
+  {
+    "id": "doran-no-kosuke",
+    "title": "胴乱の幸助 (Doran no Kosuke)",
+    "genre": "上方噺・滑稽噺 (Kamigata/Comedy)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "喧嘩の仲裁が好きな幸助が芝居の世界まで現実と勘違いする、上方の大ネタ。"
+  },
+  {
+    "id": "toki-udon",
+    "title": "時うどん (Toki Udon)",
+    "genre": "上方噺・滑稽噺 (Kamigata/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "上方版の時そば。うどん屋で勘定をごまかす男と、それを真似して失敗する男を描く。"
+  },
+  {
+    "id": "toki-soba",
+    "title": "時そば (Toki Soba)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "そば屋の勘定をごまかす男と、それを真似して失敗する男の対比が面白い定番噺。"
+  },
+  {
+    "id": "tomikyu",
+    "title": "富久 (Tomikyu)",
+    "genre": "人情噺・富くじ (Ninjo/Lottery)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "45分",
+    "description": "幇間の久蔵が火事と富くじに翻弄される、暮れの情緒がある大ネタ。"
+  },
+  {
+    "id": "toyotakeya",
+    "title": "豊竹屋 (Toyotakeya)",
+    "genre": "音曲噺・滑稽噺 (Musical/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "義太夫好きの男をめぐる音曲入りの噺で、語りや調子の面白さが見どころ。"
+  },
+  {
+    "id": "toraya-bouzu",
+    "title": "鳥屋坊主 (Toraya Bozu)",
+    "genre": "上方噺・滑稽噺 (Kamigata/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "鳥屋をめぐるやり取りから笑いが生まれる、上方で演じられることのある噺。"
+  },
+  {
+    "id": "tonchiki",
+    "title": "とんちき (Tonchiki)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "どこか抜けた人物の言動を中心に進む、軽く演じやすい滑稽噺。"
+  },
+  {
+    "id": "daibutsu-mochi",
+    "title": "大仏餅 (Daibutsu Mochi)",
+    "genre": "名所噺・滑稽噺 (Famous Place/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "大仏にまつわる名物や土産を題材にした、名所噺の雰囲気を持つ演目。"
+  },
+  {
+    "id": "daimaru-sodo",
+    "title": "大丸騒動 (Daimaru Sodo)",
+    "genre": "上方噺・騒動噺 (Kamigata/Incident)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "大丸を舞台にした騒動を描く、上方らしい商家の空気を感じられる噺。"
+  },
+  {
+    "id": "daimyodo-gu",
+    "title": "大名道具 (Daimyo Dogu)",
+    "genre": "殿様噺・道具噺 (Lord/Antique)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "大名の道具をめぐる、身分の高さと世間知らずを笑いにした噺。"
+  },
+  {
+    "id": "takakura-gitsune",
+    "title": "高倉狐 (Takakura Gitsune)",
+    "genre": "上方噺・狐噺 (Kamigata/Fox)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "王子の狐の上方版にあたる演目で、狐と人間のだまし合いを描く。"
+  },
+  {
+    "id": "tsuki-no-sakazuki",
+    "title": "月の盃 (Tsuki no Sakazuki)",
+    "genre": "殿様噺・滑稽噺 (Lord/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "殿様の風流な遊びを題材に、家来たちの苦労や勘違いが笑いになる噺。"
+  },
+  {
+    "id": "tsuki-no-tonosama",
+    "title": "月の殿様 (Tsuki no Tonosama)",
+    "genre": "殿様噺・小咄 (Lord/Short Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "10分",
+    "description": "月見をする殿様のずれた感覚を楽しむ、短めでわかりやすい殿様噺。"
+  },
+  {
+    "id": "tsutsumo-tase",
+    "title": "美人局 (Tsutsumotase)",
+    "genre": "廓噺・滑稽噺 (Courtesan/Comedy)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "30分",
+    "description": "男女の企みとだまし合いを描く、廓噺らしい大人向けの演目。"
+  },
+  {
+    "id": "tengu-yama",
+    "title": "天狗山 (Tengu Yama)",
+    "genre": "怪異・滑稽 (Fantasy/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "天狗にまつわる不思議な出来事を、恐ろしさよりも滑稽さで見せる噺。"
+  },
+  {
+    "id": "nagamyo-no-segare",
+    "title": "長名の倅 (Nagamyo no Segare)",
+    "genre": "前座噺 (Zenzabanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "10分",
+    "description": "長すぎる名前を持つ子どもをめぐる、寿限無の上方版として知られる言葉遊びの噺。"
+  },
+  {
+    "id": "nakamura-nakazo",
+    "title": "中村仲蔵 (Nakamura Nakazo)",
+    "genre": "芝居噺・人情噺 (Theater/Drama)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "45分",
+    "description": "歌舞伎役者・中村仲蔵が役作りに苦心し、独自の工夫で名声を得るまでを描く重厚な名作。"
+  },
+  {
+    "id": "nagaya-no-hanami",
+    "title": "長屋の花見 (Nagaya no Hanami)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "貧乏長屋の住人たちが、番茶を酒、大根を蒲鉾に見立てて花見を楽しむ明るい春の噺。"
+  },
+  {
+    "id": "natsudoro",
+    "title": "夏どろ (Natsudoro)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "暑い夏の夜、盗人が忍び込むが、家の者とのやり取りで思わぬ展開になる軽い泥棒噺。"
+  },
+  {
+    "id": "natsu-no-isha",
+    "title": "夏の医者 (Natsu no Isha)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "田舎に呼ばれた医者が、夏の山道で奇妙な出来事に巻き込まれる、上方でも知られる噺。"
+  },
+  {
+    "id": "namida-no-cha",
+    "title": "涙の茶 (Namida no Cha)",
+    "genre": "廓噺・滑稽 (Kuruwa/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "遊里での男女の駆け引きや見栄を、茶をめぐるやり取りで描く艶っぽい噺。"
+  },
+  {
+    "id": "nameru",
+    "title": "なめる (Nameru)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "言葉の取り違えや奇妙な行動が笑いにつながる、ばかばかしさが魅力の噺。"
+  },
+  {
+    "id": "nara-meisho",
+    "title": "奈良名所 (Nara Meisho)",
+    "genre": "旅噺・滑稽 (Travel/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "奈良の名所を題材に、土地の名物や見物を面白おかしく語る旅情のある噺。"
+  },
+  {
+    "id": "nigao-no-sayaate",
+    "title": "似顔の鞘当 (Nigao no Sayaate)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "似顔や人違いをめぐって騒動が起こる、芝居がかった雰囲気もある噺。"
+  },
+  {
+    "id": "nishiki-no-kesa",
+    "title": "錦の袈裟 (Nishiki no Kesa)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "長屋の男たちが見栄を張り、女房たちの着物を使って派手な袈裟を作ろうとする噺。"
+  },
+  {
+    "id": "nijuushiko",
+    "title": "二十四孝 (Nijushiko)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "親孝行の教えをめぐって、若者がずれた理解をして騒動を起こす古典らしい噺。"
+  },
+  {
+    "id": "nido-no-gochiso",
+    "title": "二度の御馳走 (Nido no Gochiso)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "御馳走をめぐる勘違いや欲が笑いになる、短めで聞きやすい噺。"
+  },
+  {
+    "id": "ninin-tabi",
+    "title": "二人旅 (Ninin Tabi)",
+    "genre": "旅噺・滑稽 (Travel/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "二人連れの旅人が道中で食事や宿をめぐって騒動を起こす、旅噺の定番。"
+  },
+  {
+    "id": "nibansenji",
+    "title": "二番煎じ (Nibansenji)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "寒い夜の火の番で、町内の男たちが酒や猪鍋を楽しもうとする冬らしい名作。"
+  },
+  {
+    "id": "nirami-kaeshi",
+    "title": "睨み返し (Nirami Kaeshi)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "年末の借金取りを追い返すため、男が恐ろしい顔で睨み返すという痛快な噺。"
+  },
+  {
+    "id": "ningyo-kai",
+    "title": "人形買い (Ningyo Kai)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "人形を買いに行く男たちのやり取りや、知ったかぶりが笑いを生む噺。"
+  },
+  {
+    "id": "nukesuzume",
+    "title": "抜け雀 (Nukesuzume)",
+    "genre": "名工噺 (Master Craftsman Tale)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "貧しい絵師が宿代の代わりに描いた雀が、朝になると絵から抜け出すという名工ものの名作。"
+  },
+  {
+    "id": "nusutto-dekigokoro",
+    "title": "盗人出来心 (Nusutto Dekigokoro)",
+    "genre": "泥棒噺・滑稽 (Thief/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "出来心で盗みに入った男が、家人とのやり取りでどんどん調子を崩していく軽妙な噺。"
+  },
+  {
+    "id": "nusutto-no-aisatsu",
+    "title": "盗人のあいさつ (Nusutto no Aisatsu)",
+    "genre": "泥棒噺・滑稽 (Thief/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "盗人が入った先で、思わぬ挨拶や会話になってしまう、ばかばかしさが楽しい噺。"
+  },
+  {
+    "id": "negi-ma-no-tonosama",
+    "title": "ねぎまの殿様 (Negima no Tonosama)",
+    "genre": "殿様噺・滑稽 (Lord/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "庶民の食べ物を知らない殿様が、ねぎまをめぐって勘違いを重ねる可笑しい噺。"
+  },
+  {
+    "id": "nekokyu",
+    "title": "猫久 (Nekokyu)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "猫にまつわる騒動と人物の癖を描いた、愛嬌のある滑稽噺。"
+  },
+  {
+    "id": "nekosai",
+    "title": "猫災 (Nekosai)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "酒好きの男が、猫を口実にして酒を飲もうとする姿が面白い一席。"
+  },
+  {
+    "id": "neko-no-sainan",
+    "title": "猫の災難 (Neko no Sainan)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "魚と酒をめぐる騒動を、猫のせいにしようとする男のずるさが笑いになる人気演目。"
+  },
+  {
+    "id": "neko-no-sara",
+    "title": "猫の皿 (Neko no Sara)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "高価な皿で猫に餌をやる茶店の主人と、それを買い取ろうとする男の知恵比べ。"
+  },
+  {
+    "id": "neko-no-chawan",
+    "title": "猫の茶碗 (Neko no Chawan)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "古道具の目利きが猫の餌皿に目をつけるが、相手も一枚上手だったという骨董噺。"
+  },
+  {
+    "id": "nejibee",
+    "title": "捻兵衛 (Nejibee)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "妙な理屈や言い回しで周囲を困らせる人物を描く、口調の面白さが出る噺。"
+  },
+  {
+    "id": "nezumi",
+    "title": "ねずみ (Nezumi)",
+    "genre": "名工噺・人情 (Master Craftsman/Drama)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "左甚五郎が宿で出会った親子のために木彫りの鼠を作る、情と名人芸が光る名作。"
+  },
+  {
+    "id": "nezumi-ana",
+    "title": "鼠穴 (Nezumi Ana)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "40分",
+    "description": "兄弟の金をめぐる確執と夢のような展開を描く、重みのある人情噺。"
+  },
+  {
+    "id": "nedoko",
+    "title": "寝床 (Nedoko)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "35分",
+    "description": "義太夫好きの旦那が、下手な語りを無理に聞かせようとして周囲を困らせる有名な噺。"
+  },
+  {
+    "id": "nozaki-mairi",
+    "title": "野崎詣り (Nozaki Mairi)",
+    "genre": "旅噺・上方 (Travel/Kamigata)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "野崎観音への参詣を題材に、船と陸の掛け合いや道中のにぎわいを描く上方落語。"
+  },
+  {
+    "id": "nozarashi",
+    "title": "野ざらし (Nozarashi)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "釣りに出た男が髑髏を供養したことから、美女が訪ねてくるという色気と笑いのある噺。"
+  },
+  {
+    "id": "nomeru",
+    "title": "のめる (Nomeru)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "二人の癖をめぐる掛け合いが中心の、短く演じやすい前座向きの噺。"
+  },
+  {
+    "id": "bakemono-tsukai",
+    "title": "化物使い (Bakemono Tsukai)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "人使いの荒い隠居が化物屋敷に住むが、幽霊や化物までこき使ってしまう痛快な噺。"
+  },
+  {
+    "id": "bakemono-nagaya",
+    "title": "化物長屋 (Bakemono Nagaya)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "空き家に人を入れまいと長屋の者が化物話で脅すが、相手の反応が予想外にずれていく噺。"
+  },
+  {
+    "id": "hakkenden",
+    "title": "八問答 (Hachi Mondo)",
+    "genre": "問答噺 (Question Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "言葉のやり取りや理屈の食い違いを楽しむ、問答型の滑稽噺。"
+  },
+  {
+    "id": "hatsu-tenjin",
+    "title": "初天神 (Hatsu Tenjin)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "父親が息子を連れて天神様へ出かけるが、子どものわがままに振り回される親子噺。"
+  },
+  {
+    "id": "hatenano-chawan",
+    "title": "はてなの茶碗 (Hatena no Chawan)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "茶碗を見た目利きの一言をきっかけに、男が大きな勘違いをして一儲けを狙う上方の名作。"
+  },
+  {
+    "id": "hanaikada",
+    "title": "花筏 (Hana Ikada)",
+    "genre": "相撲噺 (Sumo Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "素人の男が力士の替え玉として相撲を取ることになり、必死にごまかそうとする滑稽な噺。"
+  },
+  {
+    "id": "hanairo-momen",
+    "title": "花色木綿 (Hanairo Momen)",
+    "genre": "泥棒噺 (Thief Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "泥棒に入られた男が、盗られてもいない品まで言い立てる、調子のよいやり取りが楽しい噺。"
+  },
+  {
+    "id": "hanami-zake",
+    "title": "花見酒 (Hanami Zake)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "酒を売って儲けようとする二人が、互いに金を払って飲み合い、結局全部飲んでしまう噺。"
+  },
+  {
+    "id": "hanami-no-adauchi",
+    "title": "花見の仇討ち (Hanami no Adauchi)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "花見の場で仇討ちの芝居を仕組むが、本物と間違えられて騒ぎが大きくなる噺。"
+  },
+  {
+    "id": "hamano-noriyuki",
+    "title": "浜野矩随 (Hamano Noriyuki)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "45分",
+    "description": "名工の息子が母の思いに支えられ、職人として再起する姿を描いた人情噺の名作。"
+  },
+  {
+    "id": "hangonkou",
+    "title": "反魂香 (Hangonkou)",
+    "genre": "怪談・艶笑 (Ghost/Romance)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "亡き恋人に会えるという香を巡り、男の執念と勘違いが交差する噺。"
+  },
+  {
+    "id": "hantai-guruma",
+    "title": "反対俥 (Hantai Guruma)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "のろすぎる車夫と速すぎる車夫に振り回される客を描く、動きの多い前座向きの噺。"
+  },
+  {
+    "id": "banto-hyakunenme",
+    "title": "番頭百年目 (Banto Hyakunenme)",
+    "genre": "人情・滑稽 (Drama/Comedy)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "45分",
+    "description": "堅物の番頭が隠れて遊んでいるところを旦那に見られ、温かく諭される大ネタ。"
+  },
+  {
+    "id": "higashi-no-tabi",
+    "title": "東の旅 (Higashi no Tabi)",
+    "genre": "旅噺 (Travel Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "伊勢参りへ向かう旅の道中を描く、上方落語の代表的な旅噺。"
+  },
+  {
+    "id": "hikoshi-no-yume",
+    "title": "引越しの夢 (Hikkoshi no Yume)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "奉公人たちが新しく来た女中に浮かれ、夢と現実が入り混じるように騒ぐ噺。"
+  },
+  {
+    "id": "hitome-agari",
+    "title": "一目上り (Hitome Agari)",
+    "genre": "前座噺 (Zenzabanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "10分",
+    "description": "掛け軸を褒めようとする男が、聞きかじりの言葉を重ねていく前座噺。"
+  },
+  {
+    "id": "hitori-sakamori",
+    "title": "一人酒盛 (Hitori Sakamori)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "友人と酒を飲むはずが、結局自分ばかり飲んでしまう酒好きの男を描いた噺。"
+  },
+  {
+    "id": "hinatsuba",
+    "title": "雛鍔 (Hinatsuba)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "お屋敷の若様の真似をした子どもと、欲を出す親の姿を描くわかりやすい噺。"
+  },
+  {
+    "id": "himono-bako",
+    "title": "干物箱 (Himono Bako)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "遊びに行きたい若旦那が声色名人に身代わりを頼むが、父親に怪しまれてしまう噺。"
+  },
+  {
+    "id": "hyakunenme",
+    "title": "百年目 (Hyakunenme)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "45分",
+    "description": "番頭の失敗を旦那が大きな器で受け止める、商家の人情を描いた上方の大作。"
+  },
+  {
+    "id": "binbo-gami",
+    "title": "貧乏神 (Binbo Gami)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "貧乏神に取りつかれた男が、逆に貧乏神と奇妙な関係を築いていく噺。"
+  },
+  {
+    "id": "binbo-hanami",
+    "title": "貧乏花見 (Binbo Hanami)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "貧乏長屋の住人たちが、番茶を酒、大根を蒲鉾に見立てて花見を楽しむ噺。"
+  },
+  {
+    "id": "fugu-nabe",
+    "title": "河豚鍋 (Fugu Nabe)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "毒が怖い河豚鍋を前に、互いに相手から先に食べさせようとする臆病者たちの噺。"
+  },
+  {
+    "id": "fukusuke-kurabe",
+    "title": "福助くらべ (Fukusuke Kurabe)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "福助人形を巡って、見栄や勘違いが重なっていく軽い滑稽噺。"
+  },
+  {
+    "id": "fuku-no-kami",
+    "title": "福の神 (Fuku no Kami)",
+    "genre": "正月噺 (New Year Story)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "福の神にまつわるめでたい雰囲気を持つ、正月向きの明るい噺。"
+  },
+  {
+    "id": "fujimairi",
+    "title": "富士詣り (Fuji Mairi)",
+    "genre": "旅噺 (Travel Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "富士参りの道中を題材にした、旅の空気と人々のやり取りを楽しむ噺。"
+  },
+  {
+    "id": "busho-doko",
+    "title": "不精床 (Busho Doko)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "横着な床屋と客のやり取りを描く、テンポよく演じやすい床屋噺。"
+  },
+  {
+    "id": "busho-buro",
+    "title": "無精風呂 (Busho Buro)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "面倒くさがりな人々の姿を風呂場の場面で描く、軽い滑稽噺。"
+  },
+  {
+    "id": "fudan-no-hakama",
+    "title": "普段の袴 (Fudan no Hakama)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "礼儀正しい侍の様子を真似しようとした男が、形だけをまねて失敗する噺。"
+  },
+  {
+    "id": "buddhiya-nusutto",
+    "title": "仏師屋盗人 (Busshiya Nusutto)",
+    "genre": "泥棒噺 (Thief Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "仏師の家に入った盗人が、思わぬやり取りに巻き込まれる職人ものの滑稽噺。"
+  },
+  {
+    "id": "fudo-bo",
+    "title": "不動坊 (Fudo Bo)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "亡くなった講釈師の幽霊を使って長屋の男を脅かそうとするが、計画が思わぬ方向へ進む噺。"
+  },
+  {
+    "id": "funatoku",
+    "title": "船徳 (Funatoku)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "若旦那が船頭になろうとするが、客を乗せて大騒動になる夏らしい噺。"
+  },
+  {
+    "id": "funabenkei",
+    "title": "船弁慶 (Funabenkei)",
+    "genre": "芝居噺 (Theater Story)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "能や芝居の要素を取り入れた、夫婦や船の場面がにぎやかな上方噺。"
+  },
+  {
+    "id": "fumichigai",
+    "title": "文違い (Fumichigai)",
+    "genre": "廓噺 (Yukaku Story)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "廓を舞台に、手紙と金を巡る駆け引きを描く大人向けの噺。"
+  },
+  {
+    "id": "furugi-kai",
+    "title": "古着買い (Furugi Kai)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "古着を買おうとする男と店のやり取りを描く、商いの会話が楽しい噺。"
+  },
+  {
+    "id": "furoshiki",
+    "title": "風呂敷 (Furoshiki)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "間男騒動をごまかすため、風呂敷を使って苦しい言い訳を重ねる噺。"
+  },
+  {
+    "id": "bunshichi-mottoi",
+    "title": "文七元結 (Bunshichi Mottoi)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "50分",
+    "description": "左官の長兵衛が身投げしようとする文七を助ける、親子と夫婦の情を描いた名作。"
+  },
+  {
+    "id": "hettui-dorobo",
+    "title": "へっつい泥棒 (Hettsui Dorobo)",
+    "genre": "泥棒噺 (Thief Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "かまどを盗もうとした泥棒が、思わぬ騒動に巻き込まれる滑稽な泥棒噺。"
+  },
+  {
+    "id": "hettui-yurei",
+    "title": "へっつい幽霊 (Hettsui Yurei)",
+    "genre": "怪談・滑稽 (Ghost/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "へっついから出る幽霊を巡って、怖さよりもおかしさが勝っていく噺。"
+  },
+  {
+    "id": "bento-ofuji",
+    "title": "弁天おふじ (Benten Ofuji)",
+    "genre": "怪談・世話物 (Ghost/Drama)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "40分",
+    "description": "お藤松五郎に関わる因縁を描く、怪談色のある世話物の演目。"
+  },
+  {
+    "id": "bozu-no-asobi",
+    "title": "坊主の遊び (Bozu no Asobi)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "坊主が遊びに出かけるという設定から、堅い立場と本音のギャップを楽しむ噺。"
+  },
+  {
+    "id": "bodara",
+    "title": "棒鱈 (Bodara)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "田舎侍と江戸っ子の言い合いを中心に、言葉の勢いで笑わせる酒席の噺。"
+  },
+  {
+    "id": "hocho",
+    "title": "包丁 (Hocho)",
+    "genre": "艶笑・滑稽 (Adult Comedy)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "30分",
+    "description": "男女関係のもつれと包丁を巡る騒動を描く、大人向けの廓・間男噺。"
+  },
+  {
+    "id": "hoshinoya",
+    "title": "星野屋 (Hoshinoya)",
+    "genre": "人情・滑稽 (Drama/Comedy)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "心中を持ちかける男女の駆け引きから、人間のずるさとおかしさが見える噺。"
+  },
+  {
+    "id": "botan-doro",
+    "title": "牡丹燈籠 (Botan Doro)",
+    "genre": "怪談噺 (Ghost Story)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "50分",
+    "description": "美しい女の幽霊と若侍の因縁を描く、怪談噺の代表的な長編。"
+  },
+  {
+    "id": "honekawa",
+    "title": "骨皮 (Honekawa)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "やせ細った人物をめぐる言葉遊びや誇張で笑わせる軽い滑稽噺。"
+  },
+  {
+    "id": "horikawa",
+    "title": "堀川 (Horikawa)",
+    "genre": "上方噺 (Kamigata Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "上方落語らしい情緒とにぎやかなやり取りを楽しめる演目。"
+  },
+  {
+    "id": "horinouchi",
+    "title": "堀の内 (Horinouchi)",
+    "genre": "粗忽噺 (Careless Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "慌て者の男が堀の内へ参詣に行こうとして、次々と失敗するテンポのよい噺。"
+  },
+  {
+    "id": "honzen",
+    "title": "本膳 (Honzen)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "正式な膳の作法を知らない人々が、聞きかじりで何とかしようとして失敗する噺。"
+  },
+  {
+    "id": "haryu-no-matsu",
+    "title": "拝領の松 (Hairyo no Matsu)",
+    "genre": "殿様噺 (Lord Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "拝領した松を巡って、武家社会らしい大げさなやり取りが展開する噺。"
+  },
+  {
+    "id": "hagoita-decchi",
+    "title": "羽子板丁稚 (Hagoita Decchi)",
+    "genre": "丁稚噺 (Apprentice Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "10分",
+    "description": "丁稚の言動や勘違いを中心にした、軽く演じやすい小品。"
+  },
+  {
+    "id": "hago-ro-mo",
+    "title": "羽衣 (Hagoromo)",
+    "genre": "芝居・伝説 (Legend/Theater)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "三保の松原の羽衣伝説を下敷きにした、古典的な雰囲気を持つ演目。"
+  },
+  {
+    "id": "hashi-benkei",
+    "title": "橋弁慶 (Hashi Benkei)",
+    "genre": "芝居噺 (Theater Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "弁慶にまつわる題材を落語らしく扱う、芝居の雰囲気を含んだ噺。"
+  },
+  {
+    "id": "hatsuyume",
+    "title": "初夢 (Hatsuyume)",
+    "genre": "正月噺 (New Year Story)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "初夢を題材にした、正月らしい縁起のよさと笑いを持つ演目。"
+  },
+  {
+    "id": "hanamuke",
+    "title": "はなむけ (Hanamuke)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "人を送り出す場面を題材に、言葉の取り違えや調子のよさで笑わせる噺。"
+  },
+  {
+    "id": "hayashiya",
+    "title": "囃子長屋 (Hayashi Nagaya)",
+    "genre": "長屋噺 (Tenement Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "長屋の人々と音曲・囃子を絡めた、にぎやかな雰囲気の噺。"
+  },
+  {
+    "id": "harusame-jaya",
+    "title": "春雨茶屋 (Harusame Jaya)",
+    "genre": "茶屋噺 (Tea House Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "茶屋を舞台に、春雨の情緒と人物のやり取りを描く上方系の演目。"
+  },
+  {
+    "id": "hankaichi",
+    "title": "樊かい (Hankai)",
+    "genre": "講釈・滑稽 (Storytelling Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "中国故事や講釈調の題材を落語的に崩して笑わせる演目。"
+  },
+  {
+    "id": "hyakunin-bozu",
+    "title": "百人坊主 (Hyakunin Bozu)",
+    "genre": "旅・滑稽 (Travel Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "大山詣りに関わる別名を持ち、集団行動の騒がしさが出しやすい噺。"
+  },
+  {
+    "id": "hyogo-bune",
+    "title": "兵庫舟 (Hyogo Bune)",
+    "genre": "旅噺 (Travel Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "船旅を舞台にした上方系の旅噺で、道中の空気と会話の妙を楽しむ演目。"
+  },
+  {
+    "id": "futatsu-chocho",
+    "title": "双蝶々 (Futatsu Chocho)",
+    "genre": "芝居噺 (Theater Story)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "40分",
+    "description": "歌舞伎や義太夫の題材を背景にした、芝居噺として演じごたえのある演目。"
+  },
+  {
+    "id": "fukurokuju",
+    "title": "福禄寿 (Fukurokuju)",
+    "genre": "縁起噺 (Lucky Story)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "七福神の一人である福禄寿を題材にした、めでたい雰囲気の小品。"
+  },
+  {
+    "id": "bushino-nasake",
+    "title": "武士の情 (Bushi no Nasake)",
+    "genre": "武家噺 (Samurai Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "武士らしい義理や情けを題材にしつつ、落語らしい人間味を描く演目。"
+  },
+  {
+    "id": "butsuma",
+    "title": "仏馬 (Hotoke Uma)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "仏事や馬にまつわる取り違えから笑いが生まれる、古風な滑稽噺。"
+  },
+  {
+    "id": "horemitsu",
+    "title": "ほれ薬 (Horegusuri)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "恋に効くという薬を巡って、欲や勘違いが騒動を起こす噺。"
+  },
+  {
+    "id": "hokke-dofu",
+    "title": "法華豆腐 (Hokke Dofu)",
+    "genre": "宗教噺 (Religious Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "信心や宗派にまつわるやり取りを、豆腐を題材に軽く笑わせる噺。"
+  },
+  {
+    "id": "hokke-nagaya",
+    "title": "法華長屋 (Hokke Nagaya)",
+    "genre": "長屋噺 (Tenement Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "信仰心の強い人々が集まる長屋を舞台に、宗教と日常のずれを描く噺。"
+  },
+  {
+    "id": "hojo-e",
+    "title": "放生会 (Hojo-e)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "生き物を逃がす行事を題材に、人間の都合や勘違いを笑いにする噺。"
+  },
+  {
+    "id": "hoorai",
+    "title": "宝来 (Horai)",
+    "genre": "縁起噺 (Lucky Story)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "宝来にまつわるめでたい題材を扱う、正月や祝いの席にも合う演目。"
+  },
+  {
+    "id": "honnoji",
+    "title": "本能寺 (Honnoji)",
+    "genre": "芝居・歴史 (History/Theater)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "本能寺を題材にした芝居がかった演目で、歴史ネタを落語風に楽しめる噺。"
+  },
+  {
+    "id": "matsuyama-kagami",
+    "title": "松山鏡 (Matsuyama Kagami)",
+    "genre": "昔噺・滑稽噺 (Folktale/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "鏡を知らない村の人々が、鏡に映った自分を別人だと思い込む、素朴でわかりやすい噺。"
+  },
+  {
+    "id": "manju-kowai",
+    "title": "饅頭こわい (Manju Kowai)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "怖いものを言い合う中で、男が「饅頭が怖い」と言い、仲間たちをうまくだます有名な噺。"
+  },
+  {
+    "id": "mizuya-no-tomi",
+    "title": "水屋の富 (Mizuya no Tomi)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "水屋が富くじに当たり、大金を持ったことでかえって落ち着かなくなる、金と不安を描いた噺。"
+  },
+  {
+    "id": "misogura",
+    "title": "味噌蔵 (Misogura)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "けちな旦那が外出した隙に、奉公人たちがごちそうを楽しもうとする、長屋的な明るさのある噺。"
+  },
+  {
+    "id": "misomame",
+    "title": "味噌豆 (Misomame)",
+    "genre": "前座噺 (Zenzabanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "10分",
+    "description": "味噌豆を巡る小さなやり取りを軽快に見せる、前座噺としても扱いやすい短い噺。"
+  },
+  {
+    "id": "mitsui-no-daikoku",
+    "title": "三井の大黒 (Mitsui no Daikoku)",
+    "genre": "名工噺 (Craftsman Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "左甚五郎の名工ぶりを描く、職人の腕と人情が味わえる噺。"
+  },
+  {
+    "id": "miyato-gawa",
+    "title": "宮戸川 (Miyato-gawa)",
+    "genre": "恋愛噺 (Romance)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "若い男女のすれ違いと縁を描く、前半は明るく、後半は演じ方で雰囲気が変わる噺。"
+  },
+  {
+    "id": "myoga-yado",
+    "title": "茗荷宿 (Myoga Yado)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "茗荷を食べると物忘れするという俗信を利用しようとする宿屋の夫婦が、逆に損をする噺。"
+  },
+  {
+    "id": "mugakusha",
+    "title": "無学者 (Mugakusha)",
+    "genre": "知ったかぶり (Know-it-all Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "物知りぶった人物が、言葉の意味をでたらめに説明してしまう、知ったかぶりを笑う噺。"
+  },
+  {
+    "id": "musume-gidayu",
+    "title": "娘義太夫 (Musume Gidayu)",
+    "genre": "芸事噺 (Performing Arts)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "義太夫に夢中になる人々の様子を描き、芸事への熱中ぶりを面白く見せる噺。"
+  },
+  {
+    "id": "mekeuma",
+    "title": "妾馬 (Mekake Uma)",
+    "genre": "出世噺・人情噺 (Promotion/Human Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "35分",
+    "description": "妹が大名家に見初められたことで、兄の八五郎が屋敷へ呼ばれる、笑いと人情のある噺。"
+  },
+  {
+    "id": "megane-doro",
+    "title": "めがね泥 (Megane Doro)",
+    "genre": "泥棒噺 (Thief Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "めがね屋に入った泥棒が、見えないことから思わぬ失敗をする軽い泥棒噺。"
+  },
+  {
+    "id": "meguro-no-sanma",
+    "title": "目黒のさんま (Meguro no Sanma)",
+    "genre": "殿様噺・滑稽噺 (Lord/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "殿様が目黒で食べた秋刀魚の味を忘れられず、「秋刀魚は目黒に限る」と言う有名な噺。"
+  },
+  {
+    "id": "mo-hanbun",
+    "title": "もう半分 (Mo Hanbun)",
+    "genre": "怪談噺 (Ghost Story)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "酒屋での金をめぐる因縁が、怪談として恐ろしく展開する、後味の強い噺。"
+  },
+  {
+    "id": "motoinu",
+    "title": "元犬 (Motoinu)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "人間になった犬が奉公に出るが、犬だった頃の癖が抜けずに騒動を起こす、わかりやすい噺。"
+  },
+  {
+    "id": "momokawa",
+    "title": "百川 (Momokawa)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "料理屋に奉公した田舎者の百兵衛が、言葉の聞き違いから騒動を起こす噺。"
+  },
+  {
+    "id": "momotaro",
+    "title": "桃太郎 (Momotaro)",
+    "genre": "前座噺 (Zenzabanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "10分",
+    "description": "父親が桃太郎の話を聞かせようとするが、子どもに理屈で返されて困る、短く演じやすい噺。"
+  },
+  {
+    "id": "yakan",
+    "title": "やかん (Yakan)",
+    "genre": "知ったかぶり (Know-it-all Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "物知り顔の隠居が、道具や生き物の名前の由来をでたらめに説明する、言葉遊びの噺。"
+  },
+  {
+    "id": "yakan-doro",
+    "title": "やかん泥 (Yakan Doro)",
+    "genre": "泥棒噺 (Thief Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "やかんを盗もうとする泥棒が、思わぬやり取りに巻き込まれる軽い滑稽噺。"
+  },
+  {
+    "id": "yakan-name",
+    "title": "やかんなめ (Yakan Name)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "珍妙な病気や治療をめぐって、ばかばかしい展開が続く、明るい滑稽噺。"
+  },
+  {
+    "id": "yaku-harai",
+    "title": "厄払い (Yaku Harai)",
+    "genre": "季節噺 (Seasonal Story)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "年末や節分の厄払いを題材に、口上の面白さを楽しむ季節感のある噺。"
+  },
+  {
+    "id": "yajiro",
+    "title": "弥次郎 (Yajiro)",
+    "genre": "ほら吹き噺 (Tall Tale)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "弥次郎がありえない体験談を次々と語る、ほら話の面白さが中心の噺。"
+  },
+  {
+    "id": "yadogae",
+    "title": "宿替え (Yadogae)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "引っ越しをする夫婦のやり取りを通じて、粗忽でずれた会話の面白さを見せる噺。"
+  },
+  {
+    "id": "yadoya-gataki",
+    "title": "宿屋仇 (Yadoya Gataki)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "35分",
+    "description": "宿屋で静かに休みたい侍と、騒がしい客たちのやり取りが広がる、旅の宿を舞台にした噺。"
+  },
+  {
+    "id": "yadoya-no-tomi",
+    "title": "宿屋の富 (Yadoya no Tomi)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "宿屋の客が富くじを買わされ、思わぬ展開に振り回される、富くじを題材にした噺。"
+  },
+  {
+    "id": "yanagida-kakuno-shin",
+    "title": "柳田格之進 (Yanagida Kakunoshin)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "50分",
+    "description": "浪人の格之進と碁仲間の信頼、そして誤解から生まれる悲劇を描く重厚な人情噺。"
+  },
+  {
+    "id": "yabuiri",
+    "title": "薮入り (Yabuiri)",
+    "genre": "人情噺 (Ninjobanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "奉公に出た息子が久しぶりに帰ってくる日を待つ親の気持ちを描いた、温かい人情噺。"
+  },
+  {
+    "id": "yamazakiya",
+    "title": "山崎屋 (Yamazakiya)",
+    "genre": "若旦那噺 (Young Master Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "35分",
+    "description": "若旦那の恋と店の事情をめぐって、番頭や周囲の人物が動く、廓噺の要素を持つ噺。"
+  },
+  {
+    "id": "yamabuki-no-uta",
+    "title": "山吹の歌 (Yamabuki no Uta)",
+    "genre": "道灌もの (Dokan Story)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "太田道灌と山吹の歌を題材にした、知識と勘違いの面白さを楽しめる噺。"
+  },
+  {
+    "id": "yanma-tsuri",
+    "title": "やんま釣り (Yanma Tsuri)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "とんぼ取りを題材に、子どもや町人の素朴なやり取りを楽しむ軽い噺。"
+  },
+  {
+    "id": "yurei-ame",
+    "title": "幽霊飴 (Yurei Ame)",
+    "genre": "怪談・人情 (Ghost/Human Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "夜な夜な飴を買いに来る女性の正体をめぐる、怪談でありながら哀しさもある噺。"
+  },
+  {
+    "id": "yurei-kasegi",
+    "title": "幽霊稼ぎ (Yurei Kasegi)",
+    "genre": "滑稽・怪談 (Comedy/Ghost)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "幽霊を利用して金を稼ごうとする人物たちの騒動を描く、怖さよりも笑いが中心の噺。"
+  },
+  {
+    "id": "yurei-no-sakamori",
+    "title": "幽霊の酒盛 (Yurei no Sakamori)",
+    "genre": "怪談・滑稽 (Ghost/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "幽霊が酒盛りをするという奇妙な設定で、怖さと滑稽さが混じる噺。"
+  },
+  {
+    "id": "yume",
+    "title": "夢 (Yume)",
+    "genre": "夢噺 (Dream Story)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "夢と現実のずれを使って笑いを作る、短く扱いやすい噺。"
+  },
+  {
+    "id": "yumekin",
+    "title": "夢金 (Yumekin)",
+    "genre": "冬の噺・欲の噺 (Winter/Greed)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "35分",
+    "description": "雪の夜の船宿を舞台に、金に目がくらんだ船頭の企みを描く緊張感のある噺。"
+  },
+  {
+    "id": "yume-no-sake",
+    "title": "夢の酒 (Yume no Sake)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "夢に出てきた女性をめぐり、夫婦の嫉妬と勘違いが広がる噺。"
+  },
+  {
+    "id": "yumebungen",
+    "title": "夢分限 (Yumebungen)",
+    "genre": "夢噺 (Dream Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "夢の中で大金持ちになった男の様子を通して、欲や人間の弱さを笑いにする噺。"
+  },
+  {
+    "id": "yuyaban",
+    "title": "湯屋番 (Yuyaban)",
+    "genre": "若旦那噺 (Young Master Story)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "若旦那が湯屋で働くことになり、番台に座って勝手な妄想をふくらませる明るい噺。"
+  },
+  {
+    "id": "yoka-choro",
+    "title": "よかちょろ (Yoka Choro)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "調子のよい人物の軽妙な言動を中心に、テンポよく笑いを作る噺。"
+  },
+  {
+    "id": "yodogawa",
+    "title": "淀川 (Yodogawa)",
+    "genre": "上方噺 (Kamigata Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "淀川周辺を舞台にした上方らしい語り口が楽しめる噺。"
+  },
+  {
+    "id": "yodogoro",
+    "title": "淀五郎 (Yodogoro)",
+    "genre": "芝居噺 (Theater Story)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "40分",
+    "description": "役者の淀五郎が芸の壁にぶつかり、助言によって成長する姿を描く芝居噺。"
+  },
+  {
+    "id": "yonin-guse",
+    "title": "四人癖 (Yonin Guse)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "それぞれ変な癖を持つ四人の人物を並べて見せる、わかりやすい人物描写の噺。"
+  },
+  {
+    "id": "yoriai-zake",
+    "title": "寄合酒 (Yoriai Zake)",
+    "genre": "前座噺 (Zenzabanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "若い衆が酒を飲もうと、それぞれ持ち寄るものを相談する、前座噺としても親しまれる噺。"
+  },
+  {
+    "id": "rakuda",
+    "title": "らくだ (Rakuda)",
+    "genre": "滑稽・ブラックユーモア (Dark Comedy)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "50分",
+    "description": "乱暴者らくだの死体をめぐり、屑屋や兄貴分たちが振り回される、迫力のある大ネタ。"
+  },
+  {
+    "id": "ryugu",
+    "title": "竜宮 (Ryugu)",
+    "genre": "昔噺・旅噺 (Folktale/Travel)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "竜宮をめぐる不思議な世界を題材にした、幻想味のある噺。"
+  },
+  {
+    "id": "ryogoku-hakkei",
+    "title": "両国八景 (Ryogoku Hakkei)",
+    "genre": "名所噺 (Famous Place Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "両国の風景や名所を題材に、江戸の情緒を楽しめる噺。"
+  },
+  {
+    "id": "rinki-no-koma",
+    "title": "悋気の独楽 (Rinki no Koma)",
+    "genre": "艶笑・滑稽 (Jealousy Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "妾宅へ向かう旦那と、それを疑う女房のやり取りを独楽に託して描く噺。"
+  },
+  {
+    "id": "rinki-no-hitodama",
+    "title": "悋気の人魂 (Rinki no Hitodama)",
+    "genre": "怪談・滑稽 (Ghost/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "嫉妬深い気持ちが人魂のように現れる、怖さと笑いを合わせた噺。"
+  },
+  {
+    "id": "rokushaku-bo",
+    "title": "六尺棒 (Rokushaku Bo)",
+    "genre": "親子噺・滑稽 (Family Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "遊び歩く息子を怒る父親と、逃げる息子のやり取りが楽しい親子の噺。"
+  },
+  {
+    "id": "rokurokubi",
+    "title": "ろくろ首 (Rokurokubi)",
+    "genre": "怪談・滑稽 (Ghost/Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "20分",
+    "description": "美しい嫁をもらった男が、夜に首が伸びる姿を見て驚く、怖さより笑いの多い怪異噺。"
+  },
+  {
+    "id": "rokkasen",
+    "title": "六歌仙 (Rokkasen)",
+    "genre": "芝居噺・音曲 (Theater/Music)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "古典や芝居の趣向を取り入れた、演者の力量が出る華やかな噺。"
+  },
+  {
+    "id": "wasa-bi-jaya",
+    "title": "わさび茶屋 (Wasabi Jaya)",
+    "genre": "上方噺 (Kamigata Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "茶屋を舞台に、わさびをめぐるやり取りで笑いを作る上方の噺。"
+  },
+  {
+    "id": "wasure-otoko",
+    "title": "忘れ男 (Wasure Otoko)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "忘れっぽい男の言動から、次々とずれた笑いが生まれる軽い噺。"
+  },
+  {
+    "id": "warai-gusuri",
+    "title": "笑い薬 (Warai Gusuri)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "飲むと笑いが止まらなくなる薬をめぐって騒動が起こる、わかりやすい噺。"
+  },
+  {
+    "id": "warai-dake",
+    "title": "笑い茸 (Warai Dake)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "食べると笑い出してしまう茸を題材にした、動きや表情で演じやすい噺。"
+  },
+  {
+    "id": "waraningyo",
+    "title": "藁人形 (Waraningyo)",
+    "genre": "怪談・滑稽 (Ghost/Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "丑の刻参りや藁人形を題材に、怖さと滑稽さを混ぜて展開する噺。"
+  },
+  {
+    "id": "ware-wasure",
+    "title": "我忘れ (Ware Wasure)",
+    "genre": "粗忽噺 (Careless Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "自分のことまで忘れてしまうような粗忽者の言動を笑う噺。"
+  },
+  {
+    "id": "n-mawashi",
+    "title": "ん廻し (N Mawashi)",
+    "genre": "言葉遊び (Wordplay)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "10分",
+    "description": "「ん」のつく言葉を言い合う、寄合酒の流れでも演じられる言葉遊びの噺。"
+  },
+  {
+    "id": "maekuzuke",
+    "title": "前句付け (Maekuzuke)",
+    "genre": "俳諧・言葉遊び (Haikai/Wordplay)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "前句付けを題材に、言葉の面白さや町人の遊び心を見せる噺。"
+  },
+  {
+    "id": "makura-dekchi",
+    "title": "枕丁稚 (Makura Dekchi)",
+    "genre": "丁稚噺 (Apprentice Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "丁稚の勘違いや小さな失敗を中心にした、軽く演じやすい噺。"
+  },
+  {
+    "id": "mameya",
+    "title": "豆や (Mameya)",
+    "genre": "売り声・滑稽 (Vendor Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "10分",
+    "description": "豆売りの声や商売の様子を題材にした、短くテンポのよい噺。"
+  },
+  {
+    "id": "mame-nedoi",
+    "title": "豆根問 (Mame Nedoi)",
+    "genre": "根問もの (Question Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "豆にまつわる言葉や知識を根掘り葉掘り聞く、根問ものの一つ。"
+  },
+  {
+    "id": "mankintan",
+    "title": "万金丹 (Mankintan)",
+    "genre": "旅噺・薬売り (Travel/Medicine Seller)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "薬売りや旅先でのやり取りを通じて、口上や調子のよさを楽しむ噺。"
+  },
+  {
+    "id": "manzai",
+    "title": "万歳 (Manzai)",
+    "genre": "季節噺・芸能 (Seasonal/Performance)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "正月の万歳を題材に、祝福芸や掛け合いの面白さを見せる噺。"
+  },
+  {
+    "id": "miira-tori",
+    "title": "木乃伊取り (Miira Tori)",
+    "genre": "廓噺 (Pleasure Quarter Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "人を連れ戻しに行った者が、逆に同じ場所に居ついてしまう「ミイラ取りがミイラになる」噺。"
+  },
+  {
+    "id": "mizu-kake-mondo",
+    "title": "水掛問答 (Mizu Kake Mondo)",
+    "genre": "問答噺 (Question-and-Answer Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "水をめぐる言い合いや理屈のずれで笑いを作る、問答型の噺。"
+  },
+  {
+    "id": "minageya",
+    "title": "身投げ屋 (Minageya)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "身投げをめぐる奇妙な商売や騒動を描く、少し変わった設定の噺。"
+  },
+  {
+    "id": "muko-zuke",
+    "title": "向う付け (Muko-zuke)",
+    "genre": "無筆噺 (Illiteracy Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "字が読めない人物たちの勘違いを通じて、言葉と文字のずれを笑う噺。"
+  },
+  {
+    "id": "muhitsu-no-tegami",
+    "title": "無筆の手紙 (Muhitsu no Tegami)",
+    "genre": "無筆噺 (Illiteracy Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "字が読めない人が手紙をめぐって困る、無筆噺らしいわかりやすい噺。"
+  },
+  {
+    "id": "meoto-chokin",
+    "title": "夫婦貯金 (Meoto Chokin)",
+    "genre": "夫婦噺 (Couple Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "夫婦で貯金をしようとするが、互いの思惑や生活感から笑いが生まれる噺。"
+  },
+  {
+    "id": "meshitaki-no-tonosama",
+    "title": "飯たきの殿様 (Meshitaki no Tonosama)",
+    "genre": "殿様噺 (Lord Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "殿様が飯炊きに関わることで、身分の違いからくる勘違いと笑いが起こる噺。"
+  },
+  {
+    "id": "mokunoichi",
+    "title": "杢の市 (Moku no Ichi)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "杢の市という人物を中心に、奇妙なやり取りと展開で笑わせる噺。"
+  },
+  {
+    "id": "mojiguri",
+    "title": "木火土金水 (Mokuka Dogonsui)",
+    "genre": "言葉遊び (Wordplay)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "五行の言葉を使った知識や語呂の面白さを楽しめる、言葉遊び系の噺。"
+  },
+  {
+    "id": "yaito-dekchi",
+    "title": "灸丁稚 (Yaito Dekchi)",
+    "genre": "丁稚噺 (Apprentice Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "お灸をめぐって丁稚が大げさに騒ぐ、強情灸にも通じる上方系の噺。"
+  },
+  {
+    "id": "yaoya-oshichi",
+    "title": "八百屋お七 (Yaoya Oshichi)",
+    "genre": "怪談・芝居噺 (Ghost/Theater)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "35分",
+    "description": "恋に生きた八百屋お七の物語をもとにした、芝居がかった情緒のある噺。"
+  },
+  {
+    "id": "yakimono-tori",
+    "title": "焼物取り (Yakimono Tori)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "焼き物を取りに行く使いのやり取りを中心に、勘違いで笑わせる噺。"
+  },
+  {
+    "id": "yanaka-no-to",
+    "title": "谷中の塔 (Yanaka no To)",
+    "genre": "名所噺 (Famous Place Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "谷中の塔を題材に、江戸の地名や名所の雰囲気を楽しめる噺。"
+  },
+  {
+    "id": "yabui-sha",
+    "title": "薮医者 (Yabu Isha)",
+    "genre": "医者噺 (Doctor Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "腕のよくない医者の診立てや言い訳を笑う、医者噺の定番的な題材。"
+  },
+  {
+    "id": "yareten",
+    "title": "やれてん (Yareten)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "独特な言い回しと調子で笑いを作る、軽妙な口調が大事な噺。"
+  },
+  {
+    "id": "yuki-ten",
+    "title": "雪てん (Yuki Ten)",
+    "genre": "季節噺 (Seasonal Story)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "雪を題材にした季節感のある小品で、冬の寄席にも合いやすい噺。"
+  },
+  {
+    "id": "yume-no-segawa",
+    "title": "夢の瀬川 (Yume no Segawa)",
+    "genre": "廓噺・夢噺 (Pleasure Quarter/Dream)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "夢に現れる瀬川をめぐり、恋心や嫉妬が入り混じる噺。"
+  },
+  {
+    "id": "yomeiri",
+    "title": "嫁入り (Yomeiri)",
+    "genre": "婚礼噺 (Wedding Comedy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "嫁入りをめぐる家同士のやり取りや勘違いを描く、婚礼を題材にした噺。"
+  },
+  {
+    "id": "rakuda-no-soren",
+    "title": "らくだの葬礼 (Rakuda no Soren)",
+    "genre": "上方・滑稽 (Kamigata/Dark Comedy)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "45分",
+    "description": "上方での呼び名を用いたらくだの別名。死体をめぐる騒動が大きな笑いになる噺。"
+  },
+  {
+    "id": "rusuiban",
+    "title": "留守居番 (Rusuiban)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "留守番を任された人物の失敗や勘違いを描く、短く使いやすい噺。"
+  },
+  {
+    "id": "rokudanme",
+    "title": "六段目 (Rokudanme)",
+    "genre": "芝居噺 (Theater Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "芝居の六段目を題材にした、芝居好きや義太夫の雰囲気を楽しめる噺。"
+  },
+  {
+    "id": "wata-isha",
+    "title": "綿医者 (Wata Isha)",
+    "genre": "医者噺 (Doctor Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "医者の診立てや治療をめぐるばかばかしさを楽しむ、上方系の医者噺。"
+  },
+  {
+    "id": "yojome-komachi",
+    "title": "四目小町 (Yotsume Komachi)",
+    "genre": "滑稽噺 (Kokkeibanashi)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "小町にまつわる趣向を使い、見立てや言葉のずれで笑いを作る噺。"
+  },
+  {
+    "id": "fushi-no-yume",
+    "title": "夢八 (Yumehachi)",
+    "genre": "旅噺・夢噺 (Travel/Dream)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "夢見八兵衛とも呼ばれ、旅や夢の不思議さを交えて展開する噺。"
+  },
+  {
+    "id": "higashi-no-tabi",
+    "title": "東の旅 (Higashi no Tabi)",
+    "genre": "旅噺・上方 (Travel/Kamigata)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "30分",
+    "description": "伊勢詣りへ向かう旅を題材にした、上方落語の旅噺の大きな流れの一つ。"
+  },
+  {
+    "id": "yonmai-garei",
+    "title": "四枚鰈 (Yonmai Garei)",
+    "genre": "上方噺 (Kamigata Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "魚や料理をめぐる上方らしいやり取りで笑いを作る噺。"
+  },
+  {
+    "id": "yomise-fukei",
+    "title": "夜店風景 (Yomise Fukei)",
+    "genre": "風俗噺 (Town Life Story)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "夜店のにぎやかな様子を描き、売り声や町の空気を楽しめる噺。"
+  },
+  {
+    "id": "yomi-chigai",
+    "title": "読みちがい (Yomi Chigai)",
+    "genre": "言葉遊び (Wordplay)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "文字の読み違いから起こる勘違いを中心にした、わかりやすい言葉遊びの噺。"
+  },
+  {
+    "id": "kaminari-yoke",
+    "title": "陽成院 (Yozeiin)",
+    "genre": "和歌・古典 (Classical Poetry)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "古典や和歌に関わる題材を用いた、知識としゃれを楽しめる噺。"
+  },
+  {
+    "id": "yokone-isha",
+    "title": "横根医者 (Yokone Isha)",
+    "genre": "医者噺 (Doctor Comedy)",
+    "difficulty": "初級 (Beginner)",
+    "duration": "15分",
+    "description": "医者の見立てや診察をめぐるずれを笑う、軽く演じやすい医者噺。"
+  },
+  {
+    "id": "yoshi-no-gitsune",
+    "title": "吉野狐 (Yoshino Gitsune)",
+    "genre": "狐噺・上方 (Fox/Kamigata)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "狐をめぐる不思議さと上方らしい笑いが混ざった噺。"
+  },
+  {
+    "id": "yozome",
+    "title": "夜桜 (Yozakura)",
+    "genre": "廓噺・季節噺 (Pleasure Quarter/Seasonal)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "夜桜の風情を背景に、親子茶屋にもつながる華やかな雰囲気を持つ噺。"
+  },
+  {
+    "id": "rikyu-no-cha",
+    "title": "利休の茶 (Rikyu no Cha)",
+    "genre": "茶の湯噺 (Tea Ceremony Story)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "20分",
+    "description": "茶の湯や利休にまつわる知識を題材に、格式と笑いを組み合わせた噺。"
+  },
+  {
+    "id": "ryugu-kai",
+    "title": "竜宮海 (Ryugu Kai)",
+    "genre": "昔噺・幻想 (Folktale/Fantasy)",
+    "difficulty": "中級 (Intermediate)",
+    "duration": "25分",
+    "description": "竜宮をめぐる別名系の噺で、海や異世界の雰囲気を楽しめる。"
+  },
+  {
+    "id": "wakasanjin",
+    "title": "和歌三神 (Waka Sanjin)",
+    "genre": "和歌・古典 (Classical Poetry)",
+    "difficulty": "上級 (Advanced)",
+    "duration": "25分",
+    "description": "和歌三神を題材にした、古典知識としゃれを楽しむやや玄人向けの噺。"
   }
 ]
