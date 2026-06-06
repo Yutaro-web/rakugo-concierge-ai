@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { useSearchParams, Link, useNavigate } from "react-router-dom";
 import { motion, AnimatePresence } from "motion/react";
 import { Sparkles, Clock, BarChart, ChevronRight, RefreshCw, AlertCircle } from "lucide-react";
-import { getRakugoRecommendations } from "../services/gemini";
+import { getRakugoRecommendations } from "../services/groq";
 import { RecommendationResponse, RakugoEnmoku } from "../types";
 import { cn } from "../lib/utils";
 

@@ -13,7 +13,7 @@ import {
   BookOpen,
   Tag
 } from "lucide-react";
-import { getRakugoDetail } from "../services/gemini";
+import { getRakugoDetail } from "../services/groq";
 import { RakugoEnmoku } from "../types";
 
 export default function Detail() {
