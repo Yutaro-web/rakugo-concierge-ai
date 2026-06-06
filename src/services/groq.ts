@@ -16,7 +16,7 @@ async function callGroq(prompt: string, systemInstruction: string): Promise<stri
       Authorization: `Bearer ${GROQ_API_KEY}`,
     },
     body: JSON.stringify({
-      model: "llama-3.1-8b-instant",
+      model: "llama-3.3-70b-versatile",
       messages: [
         {
           role: "system",
@@ -64,12 +64,14 @@ function parseJsonSafely(text: string) {
 export async function getRakugoRecommendations(
   query?: string
 ): Promise<RecommendationResponse> {
-  const datasetSnippet = rakugoData.map((r) => ({
-    id: r.id,
-    title: r.title,
-    genre: r.genre,
-    description: r.description,
-  }));
+  const datasetSnippet = [...rakugoData]
+    .sort(() => Math.random() - 0.5)
+    .slice(0, 30)
+    .map((r) => ({
+      id: r.id,
+      title: r.title,
+      genre: r.genre,
+    }));
 
   const prompt = `
 あなたは落語のコンシェルジュです。
@@ -78,7 +80,7 @@ export async function getRakugoRecommendations(
 ユーザーの要望: "${query || "初心者におすすめ"}"
 
 データセット:
-${JSON.stringify(datasetSnippet, null, 2)}
+${JSON.stringify(datasetSnippet)}
 
 必ず次のJSON形式だけで返してください。
 Markdownや説明文は不要です。
@@ -138,7 +140,7 @@ export async function getRakugoDetail(id: string): Promise<RakugoEnmoku> {
 落語の演目「${staticItem.title}」について、物語を盛り上げるための詳細情報をJSONで提供してください。
 
 元データ:
-${JSON.stringify(staticItem, null, 2)}
+${JSON.stringify(staticItem)}
 
 必ず次のJSON形式だけで返してください。
 Markdownや説明文は不要です。
